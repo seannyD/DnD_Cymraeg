@@ -8,6 +8,14 @@ Running the `autoTranslation.py` copies the markdown files from this source, doe
 
 The aim is to translate documents paragraph by paragraph, putting the original English into a markdown quote block. Running the `makeWebsite.py` program converts the quote blocks to hidden elements in html files, written to the `web/public` folder.
 
+Running `createLists.py` makes some automatic lists including:
+
+-  List of spells
+-  List of monsters
+-  List of items
+
+See the relevant folders for the lists as md files.
+
 ## Contributing
 
 Anyone can contribute, details to follow. If you know Github, get stuck in!
