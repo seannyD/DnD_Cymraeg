@@ -1,0 +1,26 @@
+{
+	"**Casting Time:**": "**Amser Hudo:**",
+	"**Range:**": "**Amrediad:**",
+	"**Components:**": "**Cydrannau:**",
+	"**Duration:**": "**Parhad:**",
+	"***At Higher Levels***": "***Ar lefelau uwch:***",
+	
+	"abjuration": "diofryd",
+	"conjuration": "hudo",
+	"divination": "dewindabaeth",
+	"enchantment": "swyno",
+	"evocation": "ymoralw",
+	"illusion": "lledrith",
+	"necromancy": "marddewiniaeth",
+	"transmutation": "treiglio",  "nodyn": "efallai 'trawsnewid', ond mae 'treiglo' yn meddwl troi/newid",
+	
+	"1st-level": "Lefel 1",
+	"2nd-level": "Lefel 2",
+	"3rd-level": "Lefel 3",
+	"4th-level": "Lefel 4",
+	"5th-level": "Lefel 5",
+	"6th-level": "Lefel 6",
+	"7th-level": "Lefel 7",
+	"8th-level": "Lefel 8",
+	"9th-level": "Lefel 9"
+}

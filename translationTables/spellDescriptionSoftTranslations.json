@@ -1,0 +1,37 @@
+{
+	"Acid": "Asid",
+	"Bludgeoning": "Taro",
+	"Cold": "Oer",
+	"Fire": "Tân",
+	"Force": "Grym",
+	"Lightning": "Mellt",
+	"Necrotic": "Necrotig",
+	"Piercing": "Tyllu",
+	"Poison": "Gwenwyn",
+	"Psychic": "Seicic",
+	"Radiant": "Pelydrol",
+	"Slashing": "Slasio",
+	"Thunder": "Taran",
+	
+	"Strength saving throw": "cais achub Cryfder",
+	"Dexterity saving throw": "cais achub Chwimder",
+	"Constitution saving throw": "cais achub Cyfansoddiad", 
+	"Intelligence saving throw": "cais achub Deallusrwydd",
+	"Wisdom saving throw": "cais achub Doethder",
+	"Charisma saving throw": "cais achub Presenoldeb",
+	
+	"acid damage": "difrod asid",
+	"bludgeoning damage": "difrod taro",
+	"cold damage": "difrod oer",
+	"fire damage": "difrod tân",
+	"force damage": "difrod grym",
+	"lightning damage": "difrod mellt",
+	"necrotic damage": "difrod necrotig",
+	"piercing damage": "difrod tyllu",
+	"poison damage": "difrod gwenwyn",
+	"psychic damage": "difrod seicic",
+	"radiant damage": "difrod pelydrol",
+	"slashing damage": "difrod slasio",
+	"thunder damage": "difrod taran"
+		
+}

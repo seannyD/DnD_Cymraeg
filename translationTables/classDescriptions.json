@@ -1,0 +1,35 @@
+{
+	"### Class Features": "### Nodweddion y Dosbarth",
+	"**Hit Dice:**": "**Dis Heini:**",
+	"#### Hit Points": "#### Pwyntiau Heini",
+	"**Hit Points at 1st Level:**": "**Pwyntiau Heini ar lefel 1:**",
+	"**Hit Points at Higher Levels:**": "**Pwyntiau Heini ar lefelau uwch:**",
+	"#### Proficiencies": "#### Hyfedreddau",
+	"**Weapons:**": "**Arfau**",
+	"**Tools:**": "**Offer**",
+	"**Saving Throws:**": "**Cais achub**",
+	"#### Equipment": "### Cyfarpar",
+	"### Ability Score Improvement": "### Cynydd Sgôr Medraeth",
+	"### Extra Attack": "### Ymosodiad Ychwanegol",
+	"+ your Constitution modifier": "+ eich newidyn Cyfansoddiad",
+
+	"**Armor": {
+		"**Armor": "**Armwr",
+		"Light armor": "Armwr ysgafn",
+		"medium armor": "Armwr canolbwys",
+		"Medium armor": "Armwr canolbwys",
+		"All armor": "Pob armwr",
+		"shields": "tarianau",
+		"None": "Dim"
+	},
+	
+	"**Skills": {
+		"**Skills": "**Sgiliau",
+		"Choose one from": "Dewiswch un o",
+		"Choose two from": "Dewiswch dau o",
+		"Choose three from": "Dewiswch tri o",
+		"Choose any three": "Dewiswch unrhyw tri",
+		" and ": " ac "
+	}
+	
+}

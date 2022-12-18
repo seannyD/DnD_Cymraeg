@@ -1,0 +1,5 @@
+# Armwr Anfriwedig (Armor of Invulnerability)
+
+*Armwr (plât), chwedleuol (angen ymdiwnio)*
+
+You have resistance to nonmagical damage while you wear this armor. Additionally, you can use an action to make yourself immune to nonmagical damage for 10 minutes or until you are no longer wearing the armor. Once this special action is used, it can't be used again until the next dawn.

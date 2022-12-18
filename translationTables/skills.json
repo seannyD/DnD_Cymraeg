@@ -1,0 +1,33 @@
+{
+	"Strength": "Cryfder",
+	"Dexterity": "Chwimder",
+	"Constitution": "Cyfansoddiad", 
+		"Constitution_ALT": "Corffolaeth",
+	"Intelligence": "Deallusrwydd",
+	"Wisdom": "Doethder",
+	"Charisma": "Presenoldeb",
+	
+	"Athletics": "Athletig",
+	"Acrobatics": "Acrobateg",
+	"Arcana": "Hud a Lledrith",
+	"Animal Handling": "Trin Anifeiliaid",
+	"Deception": "Twyll",
+	"Sleight of Hand": "Hudwaith Llaw",
+	"History": "Hanes",
+	"Insight": "Mewnwelediad",
+	"Intimidation": "Brawychu",
+	"Stealth": "Tawel",
+	"Investigation": "Ymchwilio",
+	"Medicine": "Meddygaeth",
+	"Performance": "Perfformiad",
+	"Nature": "Natur",
+	"Perception": "Canfyddiad",
+	"Persuasion": "Perswadio",
+	"Religion": "Crefydd",
+	"Survival": "Goroesi",
+	
+	
+	"Choose one skill from": "Dewiswch un sgil o",
+	"Choose two skills from": "Dewiswch dau sgil o",
+	"Choose three skills from": "Dewiswch tri sgil o"
+}
