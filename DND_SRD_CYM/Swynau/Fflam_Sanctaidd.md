@@ -1,6 +1,6 @@
 # Fflam Sanctaidd (Sacred Flame)
 
-*Evocation cantrip*
+*Ymoralw swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

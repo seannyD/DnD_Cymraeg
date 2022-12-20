@@ -1,6 +1,6 @@
 # Mewnwelediad (True Strike)
 
-*Divination cantrip*
+*Dewindabaeth swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

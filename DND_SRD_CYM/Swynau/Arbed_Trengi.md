@@ -1,6 +1,6 @@
 # Arbed Trengi (Spare the Dying)
 
-*Necromancy cantrip*
+*Marddewiniaeth swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

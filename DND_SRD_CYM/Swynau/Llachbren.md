@@ -1,6 +1,6 @@
 # Llachbren (Shillelagh)
 
-*Transmutation cantrip*
+*Treiglio swyngyfaredd*
 
 **Amser Hudo:** 1 bonus action
 

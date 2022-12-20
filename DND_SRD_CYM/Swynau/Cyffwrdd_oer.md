@@ -1,6 +1,6 @@
 # Cyffwrdd oer (Chill Touch)
 
-*Necromancy cantrip*
+*Marddewiniaeth swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

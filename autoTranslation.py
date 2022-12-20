@@ -16,6 +16,8 @@
 # Bardic circle: Urdd/ Radd / achen
 # cylch yr abred: circle of transmigration, circle of inchoation
 
+
+# Prevent the program from running and overwriting progress
 if True:
 	print("\n\nWARNING: Converstion is locked, quitting\n\n")
 	quit()

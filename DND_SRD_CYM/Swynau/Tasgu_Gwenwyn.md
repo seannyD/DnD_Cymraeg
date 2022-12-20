@@ -1,6 +1,6 @@
 # Tasgu Gwenwyn (Poison (Gwenwyn) Spray)
 
-*Conjuration cantrip*
+*Hudo swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

@@ -13,7 +13,16 @@
 	"illusion": "lledrith",
 	"necromancy": "marddewiniaeth",
 	"transmutation": "treiglio",  "nodyn": "efallai 'trawsnewid', ond mae 'treiglo' yn meddwl troi/newid",
-	
+	"*Abjuration": "*Diofryd",
+	"*Conjuration": "*Hudo",
+	"*Divination": "*Dewindabaeth",
+	"*Enchantment": "*Swyno",
+	"*Evocation": "*Ymoralw",
+	"*Illusion": "*Lledrith",
+	"*Necromancy": "*Marddewiniaeth",
+	"*Transmutation": "*Treiglio",
+
+	"cantrip": "swyngyfaredd",
 	"1st-level": "Lefel 1",
 	"2nd-level": "Lefel 2",
 	"3rd-level": "Lefel 3",
@@ -23,4 +32,5 @@
 	"7th-level": "Lefel 7",
 	"8th-level": "Lefel 8",
 	"9th-level": "Lefel 9"
+	
 }

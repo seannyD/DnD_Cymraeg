@@ -1,6 +1,6 @@
 # Arweiniad (Guidance)
 
-*Divination cantrip*
+*Dewindabaeth swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

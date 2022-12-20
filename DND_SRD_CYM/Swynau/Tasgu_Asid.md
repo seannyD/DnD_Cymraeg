@@ -1,6 +1,6 @@
 # Tasgu Asid (Acid (Asid) Splash)
 
-*Conjuration cantrip*
+*Hudo swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

@@ -1,6 +1,6 @@
 # Gwawdio Hyll (Vicious Mockery)
 
-*Enchantment cantrip*
+*Swyno swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

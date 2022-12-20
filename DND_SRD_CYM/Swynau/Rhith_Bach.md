@@ -1,6 +1,6 @@
 # Rhith Bach (Minor Illusion)
 
-*Illusion cantrip*
+*Lledrith swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

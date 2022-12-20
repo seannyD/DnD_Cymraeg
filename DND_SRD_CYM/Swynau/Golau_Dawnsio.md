@@ -1,6 +1,6 @@
 # Golau Dawnsio (Dancing Lights)
 
-*Evocation cantrip*
+*Ymoralw swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

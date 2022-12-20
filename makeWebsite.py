@@ -8,6 +8,8 @@ def md2tex(filepath,destFilepath):
 	pandocCommand = 'pandoc '+filepath.replace(" ","\\ ")+' -o "'+destFilepath+'"'
 	os.system(pandocCommand)
 	html = open(destFilepath).read()
+	html = html.replace('<blockquote>','<details><summary>eng</summary><blockquote>')
+	html = html.replace('</blockquote>','</blockquote></details>')
 	html = "<html>\n"+headerText+"\n"+ html+"\n</html>"
 	with open(destFilepath,'w') as o:
 		o.write(html)

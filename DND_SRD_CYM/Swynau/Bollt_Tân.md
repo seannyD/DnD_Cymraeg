@@ -1,6 +1,6 @@
 # Bollt Tân (Fire (Tân) Bolt)
 
-*Evocation cantrip*
+*Ymoralw swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

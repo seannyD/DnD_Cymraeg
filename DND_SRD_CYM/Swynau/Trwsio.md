@@ -1,6 +1,6 @@
 # Trwsio (Mending)
 
-*Transmutation cantrip*
+*Treiglio swyngyfaredd*
 
 **Amser Hudo:** 1 minute
 

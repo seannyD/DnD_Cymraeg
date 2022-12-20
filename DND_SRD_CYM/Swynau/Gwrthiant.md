@@ -1,6 +1,6 @@
 # Gwrthiant (Resistance)
 
-*Abjuration cantrip*
+*Diofryd swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

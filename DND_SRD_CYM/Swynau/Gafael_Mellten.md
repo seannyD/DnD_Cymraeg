@@ -1,6 +1,6 @@
 # Gafael Mellten (Shocking Grasp)
 
-*Evocation cantrip*
+*Ymoralw swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

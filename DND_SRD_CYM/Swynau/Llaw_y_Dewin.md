@@ -1,6 +1,6 @@
 # Llaw y Dewin (Mage Hand)
 
-*Conjuration cantrip*
+*Hudo swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

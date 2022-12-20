@@ -1,6 +1,6 @@
 # Blast Annwn (Eldritch Blast)
 
-*Evocation cantrip*
+*Ymoralw swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

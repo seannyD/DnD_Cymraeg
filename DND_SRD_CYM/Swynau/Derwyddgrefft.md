@@ -1,6 +1,6 @@
 # Derwyddgrefft (Druidcraft)
 
-*Transmutation cantrip*
+*Treiglio swyngyfaredd*
 
 **Amser Hudo:** 1 action
 

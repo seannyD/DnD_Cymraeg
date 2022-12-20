@@ -1,6 +1,6 @@
 # Creu Fflam (Produce Flame)
 
-*Conjuration cantrip*
+*Hudo swyngyfaredd*
 
 **Amser Hudo:** 1 action
 
