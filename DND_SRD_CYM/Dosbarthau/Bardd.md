@@ -43,7 +43,7 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 
 **Tabl - Y Bardd**
 
-| Lefel | Bonws hyfedredd | Nodwedd                                                     | Swynau hysbys | Swyngyfaredd hysbys | Lefel 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| Lefel | Bonws hyfedredd   | Nodwedd                                                   | Swynau hysbys | Swyngyfaredd hysbys | Lefel 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |-------|-------------------|-----------------------------------------------------------|--------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | 1st   | +2                | Swyno, Ysbrydoliaeth Barddol (d6)                         | 2            | 4              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2nd   | +2                | Jac Pob Crefft, Can Gorffwys (d6)                         | 2            | 5              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
