@@ -80,16 +80,14 @@ Mae eich swynion yn rhan o'ch repertwâr helaeth, hud y gallwch chi ei diwnio i 
 >  Your spells are part of your vast repertoire, magic that you can tune to different situations.
 
 
-#### Swyngyfaredd
+#### Swyngyfaredd (Cantrips)
 
 Rydych chi'n gwybod dau swyngyfaredd o'ch dewis o restr swynau beirdd. Rydych chi'n dysgu swyngyfaredd bardd ychwanegol o'ch dewis ar lefelau uwch, fel y dangosir yng ngholofn Swyngyfaredd Hysbys y tabl Bardd.
 
->  #### Cantrips
->  
 >  You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table.
 
 
-#### Slotiau Swyno
+#### Slotiau Swyno (Spell Slots)
 
 Mae tabl y Bardd yn dangos sawl slot swyno sydd gennych i lunio eich swynion bardd o lefel 1 ac uwch. I lunio un o'r swynion hyn, rhaid i chi wario slot o lefel y swyn neu uwch. Rydych chi'n adennill yr holl slotiau swyno a wariwyd pan fyddwch chi'n gorffen saib hir.
 
@@ -101,7 +99,7 @@ Er enghraifft, os ydych chi'n gwybod y swyn lefel 1 *gwella clwyfau* a mae genny
 
 #### Swynau hysbys o lefel 1 ac uwch
 
-Rydych chi'n gwybod pedwar swyn lefel 1 o'ch dewis o restr sillafu'r beirdd.
+Rydych chi'n gwybod pedwar swyn lefel 1 o'ch dewis o restr swyno'r beirdd.
 
 Mae colofn Swynau Hysbys yn y tabl Bardd yn dangos pryd rydych chi'n dysgu mwy o swynau bardd o'ch dewis. Rhaid i bob un o'r swynau hyn fod ar lefel y mae gennych slotiau swyno, fel y dangosir ar y tabl. Er enghraifft, pan fyddwch chi'n cyrraedd y 3ydd lefel yn y dosbarth hwn, gallwch chi ddysgu un swyn newydd o lefel 1 neu 2.
 
@@ -113,7 +111,7 @@ Yn ogystal, pan fyddwch chi'n ennill lefel yn y dosbarth hwn, gallwch chi ddewis
 
 >  Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
 
-#### Gallu Swyno
+#### Gallu Swyno (Spellcasting Ability)
 
 Presenoldeb yw eich gallu swyno ar gyfer swynion eich bardd. Daw eich hud o'r galon a'r enaid rydych chi'n ei arllwys i berfformiad eich cerddoriaeth neu'ch araith. Rydych chi'n defnyddio'ch Presenoldeb pryd bynnag y bydd swynau yn cyfeirio at eich gallu i swyno. Yn ogystal, rydych chi'n defnyddio'ch gallu Presenoldeb wrth osod y DC cais achyb ar gyfer swyn bardd rydych chi'n ei gastio ac wrth wneud cais ymosod gydag un.
 
