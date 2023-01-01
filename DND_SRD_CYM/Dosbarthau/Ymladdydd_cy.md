@@ -31,7 +31,7 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 -  innau (a) armwr cadwynau neu (b) lledr, bwa hir a 20 saeth
 -  innau (a) arf marsial a tarian neu (b) dau arf marsial
 -  innau (a) Bwa Croes Ysgafn a 20 bollt neu (b) dau Bwyell Llaw
--  pecyn ogofa (dungeoneer's pack) neu pecyn anturiwr
+-  pecyn ogofa (dungeoneer's pack) neu pecyn anturio
 
 >  You start with the following equipment, in addition to the equipment granted by your background:
 >  

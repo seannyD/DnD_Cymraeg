@@ -30,7 +30,7 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 
 -  tarian pren neu unrhyw arf syml
 -  simitar neu unrhyw arf syml
--  arfwisg lledr, pac anturio, a ffocws derwyddol
+-  arfwisg lledr, pecyn anturio, a ffocws derwyddol
 
 >  - (*a*) a wooden shield (aes) or (*b*) any simple weapon
 >  - (*a*) a scimitar or (*b*) any simple melee weapon

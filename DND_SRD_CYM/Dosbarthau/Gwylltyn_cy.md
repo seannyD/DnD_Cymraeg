@@ -32,7 +32,7 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 
 -  (*a*) bwyell mawr neu (*b*) unrhyw arf sgarmes marsial
 -  (*a*) dau bwyell llaw neu (*b*) unrhyw arf syml
--  Pecyn anturiwr a pedwar siaflin
+-  Pecyn anturio a pedwar siaflin
 
 >  - (*a*) a greataxe or (*b*) any martial melee weapon
 >  - (*a*) two handaxes or (*b*) any simple weapon

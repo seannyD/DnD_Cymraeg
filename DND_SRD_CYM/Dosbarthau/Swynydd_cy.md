@@ -30,7 +30,7 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 
 -  (*a*) bwa croes ysgafn a 20 bollt neu (*b*) unrhyw arf syml
 -  (*a*) pecyn cydrhannau neu (*b*) ffocws hud
--  (*a*) pecyn ogofa (dungeoneer's pack) neu (*b*) pecyn anturiwr
+-  (*a*) pecyn ogofa (dungeoneer's pack) neu (*b*) pecyn anturio
 -  dau cleddyfan
 
 >  You start with the following equipment, in addition to the equipment granted by your background:
@@ -66,7 +66,7 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 | 20    | +6                | 20             | Adfer Swynol                   | 6                   | 15            | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 |       |                   |                |                                |                     |               |     |     |     |     |     |     |     |     |     |
 
-### Spellcasting
+### Swyno (Spellcasting)
 
 Roedd digwyddiad yn eich gorffennol, neu ym mywyd rhiant neu hynafiad, wedi gadael marc annileadwy arnoch chi, gan eich trwytho â hud a lledrith. Mae'r ffynhonell hud hwn, beth bynnag fo'i darddiad, yn llunio'ch swynau.
 
@@ -89,7 +89,7 @@ Er enghraifft, os ydych chi'n gwybod y swyn lefel 1 *llaw llosgi* a mae gennych 
 >  
 >  For example, if you know the 1st-level spell *burning hands (llaw llosgi)* and have a 1st-level and a 2nd-level spell slot available, you can cast *burning hands (llaw llosgi)* using either slot.
 
-#### Spells Known of 1st Level and Higher
+#### Swynau Hysbys o lefel 1 ac uwch (Spells Known of 1st Level and Higher)
 
 Rydych chi'n gwybod pedwar swyn lefel 1 o'ch dewis o restr swyno'r Swynydd.
 
