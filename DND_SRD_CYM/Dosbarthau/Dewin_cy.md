@@ -261,11 +261,6 @@ Os collwch eich llyfr sillafu, gallwch ddefnyddio'r un drefn i drawsgrifio'r swy
 >  If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
 
 
->  ***Replacing the Book***. You can copy a spell from your own spellbook into another book-for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
->
->  *If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
-
-
 ### Agwedd yr Hudlyfr
 
 Mae eich hudlyfr yn gasgliad unigryw o swynau, gyda'i cwaferau addurniadol a'i nodau ymyl ei hun. Gallai fod yn gyfrol ledr plaen, ymarferol a gawsoch yn anrheg gan eich meistr, yn lyfr ymyl gilt wedi'i rwymo'n fân y daethoch o hyd iddo mewn llyfrgell hynafol, neu hyd yn oed gasgliad rhydd o nodiadau wedi'u sgrwio gyda'i gilydd ar ôl i chi golli'ch hudlyfr blaenorol.

@@ -101,7 +101,7 @@ Er enghraifft, os ydych chi'n gwybod y swyn lefel 1 *gwella clwyfau* a mae genny
 
 Rydych chi'n gwybod pedwar swyn lefel 1 o'ch dewis o restr swyno'r beirdd.
 
-Mae colofn Swynau Hysbys yn y tabl Bardd yn dangos pryd rydych chi'n dysgu mwy o swynau bardd o'ch dewis. Rhaid i bob un o'r swynau hyn fod ar lefel y mae gennych slotiau swyno, fel y dangosir ar y tabl. Er enghraifft, pan fyddwch chi'n cyrraedd y 3ydd lefel yn y dosbarth hwn, gallwch chi ddysgu un swyn newydd o lefel 1 neu 2.
+Mae colofn Swynau Hysbys yn y tabl Bardd yn dangos pryd rydych chi'n dysgu mwy o swynau bardd o'ch dewis. Rhaid i bob un o'r swynau hyn fod ar lefel y mae gennych slotiau swyno, fel y dangosir ar y tabl. Er enghraifft, pan fyddwch chi'n cyrraedd lefel 3 yn y dosbarth hwn, gallwch chi ddysgu un swyn newydd o lefel 1 neu 2.
 
 Yn ogystal, pan fyddwch chi'n ennill lefel yn y dosbarth hwn, gallwch chi ddewis un o'r swynau bardd rydych chi'n gwybod a cyfnewid gyda swyn arall o rhestr swynau bardd yn ei le sydd hefyd ar lefel y mae gennych slotiau swyno.
 
@@ -173,13 +173,13 @@ Mae'r pwyntiau heni ychwanegol yn cynyddu pan fyddwch chi'n cyrraedd lefelau pen
 
 ### Coleg Barddol (Bard College)
 
-Ar y 3ydd lefel, byddwch yn ymchwilio i dechnegau uwch coleg barddol o'ch dewis: y Coleg Llên neu'r Coleg Hydeb, y mae'r ddau wedi'u nodi ar ddiwedd disgrifiad y dosbarth. Mae eich dewis yn caniatáu nodweddion ar y 3ydd lefel ac eto ar y 6ed a'r 14eg lefel.
+Ar lefel 3, byddwch yn ymchwilio i dechnegau uwch coleg barddol o'ch dewis: y Coleg Llên neu'r Coleg Hydeb, y mae'r ddau wedi'u nodi ar ddiwedd disgrifiad y dosbarth. Mae eich dewis yn caniatáu nodweddion ar lefel 3 ac eto ar lefel 6 a lefel 14.
 
 >  At 3rd level, you delve into the advanced techniques of a bard college of your choice: the College of Lore or the College of Valor, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th and 14th level.
 
 ### Arbenigaeth (Expertise)
 
-Ar y 3ydd lefel, dewiswch ddau o'ch sgiliau hyfedredd. Mae eich bonws hyfedredd yn cael ei ddyblu ar gyfer unrhyw cais gallu a wnewch sy'n defnyddio'r hyfedreddau yma.
+Ar lefel 3, dewiswch ddau o'ch sgiliau hyfedredd. Mae eich bonws hyfedredd yn cael ei ddyblu ar gyfer unrhyw cais gallu a wnewch sy'n defnyddio'r hyfedreddau yma.
 
 Ar lefel 10, gallwch ddewis dwy sgil arall i derbyn y arbenigaeth.
 
@@ -189,7 +189,7 @@ Ar lefel 10, gallwch ddewis dwy sgil arall i derbyn y arbenigaeth.
 
 ### Cynydd Sgôr Medraeth
 
-Pan rydych chi'n cyraedd lefel 4, ac eto ar lefel 8, 12, 16, a 19, gallwch gynyddu un sgôr gallu o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr gallu o'ch dewis gan 1. Gallwch chi' ddim cynyddu sgôr gallu uwch na 20 gan ddefnyddio'r nodwedd hon.
+Pan rydych chi'n cyraedd lefel 4, ac eto ar lefel 8, 12, 16, a 19, gallwch gynyddu un sgôr gallu o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr gallu o'ch dewis gan 1. Gallwch chi ddim cynyddu sgôr gallu uwch na 20 gan ddefnyddio'r nodwedd hon.
 
 >  When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
