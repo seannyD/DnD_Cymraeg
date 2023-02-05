@@ -12,6 +12,12 @@ def camel_case_split(str):
 def clean(x):
 	x = x.replace("(","").replace(")","").replace("*","").replace("#","").strip()
 	x = x.title()
+	if x=="Dc":
+		x = "DC"
+	if x=="AC":
+		x = "AC"
+	if x == "Hp":
+		x = "HP"
 	return(x)
 	
 def includeWord(eng):
@@ -21,7 +27,7 @@ def includeWord(eng):
 		return(False)
 	if eng.startswith("Any"):
 		return(False)
-	if eng in ["And","Any"]:
+	if eng in ["And","Any","Armor Class Alt","Hp_Alt","Ranger Alt","Constitution_Alt"]:
 		return(False)
 	return(True)
 
