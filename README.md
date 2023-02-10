@@ -1,4 +1,4 @@
-# DnD Cymraeg
+# Daeargelloedd & Dreigiau (D&D Cymraeg)
 
 A Welsh translation of the Systems Reference Document (SRD) for Dungeons & Dragons.
 
@@ -62,5 +62,3 @@ Prioritise manual translation of spell list, PC stat parts (class, race, charact
 * Download Wizard's official [SRD v5.1 in PDF format](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf)
 * Download Wizard's official [Errata and Basic Rules](http://dnd.wizards.com/articles/features/basicrules).
 * Download Wizard's official [Characters Sheets](http://dnd.wizards.com/articles/features/character_sheets).
-
-© 2015 Wizards. All Rights Reserved. Dungeons & Dragons® is a trademark[s] of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at [www.wizards.com](http://www.wizards.com).

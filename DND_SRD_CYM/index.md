@@ -1,4 +1,4 @@
-# D&D Cymraeg
+# Daeargelloedd & Dreigiau (D&D Cymraeg)
 
 # Rhywogaethau
 

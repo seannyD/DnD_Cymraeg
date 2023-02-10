@@ -10,7 +10,9 @@ def camel_case_split(str):
 	return [''.join(word) for word in words]
 	
 def clean(x):
-	x = x.replace("(","").replace(")","").replace("*","").replace("#","").strip()
+	x = x.replace("*","").replace("#","").replace(":","").strip()
+	if x.count("(")==0 or x.count(")")==0:
+		x = x.replace("(","").replace(")","")
 	x = x.title()
 	if x=="Dc":
 		x = "DC"
@@ -18,6 +20,7 @@ def clean(x):
 		x = "AC"
 	if x == "Hp":
 		x = "HP"
+	x = x.replace("Npc","NPC")
 	return(x)
 	
 def includeWord(eng):
