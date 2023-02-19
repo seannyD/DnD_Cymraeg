@@ -28,7 +28,7 @@
 
 Fel y Mynnu: *synhwyro da a drwg*, *synhwyro hud a lledrith*, *synhwyro meddyliau*
 
-3 pob dydd: *bendigo*, *creu bwyd a diod*, *adfer niwed*, *adfer bach*, *gwarchod o gwenwyn*, *cysegr*, *aes*
+3 pob dydd: *bendigo*, *creu bwyd a diod*, *gwella clwyfau*, *adfer bach*, *gwarchod o gwenwyn*, *cysegr*, *aes*
 
 1 pob dydd: *breiddwyd*, *adfer nerthol*, *ysbio*
 

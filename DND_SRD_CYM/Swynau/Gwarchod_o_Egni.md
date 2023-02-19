@@ -2,7 +2,7 @@
 
 *Lefel 3 diofryd*
 
-**Amser Hudo:** 1 action
+**Amser Hudo:** 1 acsiwn
 
 **Amrediad:** cyffwrdd
 
@@ -10,4 +10,8 @@
 
 **Parhad:** Canolbwyntio, hyd at 1 awr
 
-For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.
+### Cyfieithiad Awtomatig
+
+Am y swyn, mae gan y creadur parod rydych chi'n ei gyffwrdd wrthwynebiad i un math o ddifrod o'ch dewis: asid, oerfel, tân, mellt, neu daranau.
+
+>  For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.

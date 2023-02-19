@@ -1,6 +1,6 @@
-# Asasin (NPC) (Assassin (NPC))
+# Asasin (NPC) (Assassin (NPC))
 
-*Dynolydd (unrhyw rhywogaeth) canolig, unrhyw aliniad oni bai dda*
+*Deudroedig (unrhyw rhywogaeth) canolig, unrhyw aliniad oni bai dda*
 
 **Anhawster Curo** 15 (studded leather)
 
@@ -20,11 +20,11 @@
 
 **Synhwyrau** Canfyddiad goddefol 13
 
-**Ieithoedd** Truthiaeth Lladron ac dau iaith arall
+**Ieithoedd** Cuddiaeth Lladron ac dau iaith arall
 
 **Sialens** 8 (3,900 XP)
 
-***Assassinate***. During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.
+***Assassinate***. During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised (synnu) creature is a critical hit.
 
 ***Evasion***. If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 

@@ -1,6 +1,6 @@
 # Pen-Fandit (NPC) (Bandit Captain (NPC))
 
-*Dynolydd (unrhyw rhywogaeth) canolig, unrhyw aliniad oni bai cyfreithlon*
+*Deudroedig (unrhyw rhywogaeth) canolig, unrhyw aliniad oni bai cyfreithlon*
 
 **Anhawster Curo** 15 (studded leather)
 

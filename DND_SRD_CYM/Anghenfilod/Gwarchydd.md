@@ -1,6 +1,6 @@
 # Gwarchydd (NPC) (Guard)
 
-*Dynolydd (unrhyw rhywogaeth) canolig, unrhyw aliniad*
+*Deudroedig (unrhyw rhywogaeth) canolig, unrhyw aliniad*
 
 **Anhawster Curo** 16 (chain shirt, shield)
 

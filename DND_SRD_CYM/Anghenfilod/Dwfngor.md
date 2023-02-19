@@ -1,6 +1,6 @@
 # Dwfngor (Duergar)
 
-*Dynolydd (plentyn y mynydd) canolig, cyfreithlon drwg*
+*Deudroedig (plentyn y mynydd) canolig, cyfreithlon drwg*
 
 **Anhawster Curo** 16 (scale mail, shield)
 

@@ -1,6 +1,6 @@
 # Acolyt (NPC) (Acolyte (NPC))
 
-*Dynolydd (unrhyw rhywogaeth) canolig, unrhyw aliniad*
+*Deudroedig (unrhyw rhywogaeth) canolig, unrhyw aliniad*
 
 **Anhawster Curo** 10
 
@@ -23,7 +23,7 @@
 **Hud a Lledrith**. The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
 
 Cantrips (at will): *golau*, *fflam sanctaidd*, *rhyfeddod*
-lefel 1 (3 slot): *bendigo*, *adfer niwed*, *cysegr*
+lefel 1 (3 slot): *bendigo*, *gwella clwyfau*, *cysegr*
 
 ###### Acsiwn
 

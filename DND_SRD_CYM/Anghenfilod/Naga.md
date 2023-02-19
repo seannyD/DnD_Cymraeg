@@ -31,7 +31,7 @@
 **Hud a Lledrith**. The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
 
 Cantrips (at will): *trwsio*, *fflam sanctaidd*, *rhyfeddod*
-lefel 1 (4 slot): *gorchymyn*, *adfer niwed*, *tarian y ffyddlon*
+lefel 1 (4 slot): *gorchymyn*, *gwella clwyfau*, *tarian y ffyddlon*
 lefel 2 (3 slot): *tawelu emosiynau*, *dal person*
 lefel 3 (3 slot): *melltith*, *clirwelediad*
 lefel 4 (3 slot): *alltudio*, *symud rhydd*

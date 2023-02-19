@@ -2,7 +2,7 @@
 
 *Lefel 2 treiglio*
 
-**Amser Hudo:** 1 action
+**Amser Hudo:** 1 acsiwn
 
 **Amrediad:** cyffwrdd
 
@@ -10,4 +10,8 @@
 
 **Parhad:** 8 awr
 
-You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.
+### Cyfieithiad Awtomatig
+
+Rydych chi'n cyffwrdd â chreadur parod i roi'r gallu iddo weld yn y tywyllwch. Am y swyn, mae gan y creadur hwnnw weledigaeth dywyll hyd at 60 troedfedd.
+
+>  You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.

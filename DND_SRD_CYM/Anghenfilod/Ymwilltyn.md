@@ -1,6 +1,6 @@
 # Ymwilltyn (NPC) (Berserker (NPC))
 
-*Dynolydd (unrhyw rhywogaeth) canolig, any caosaidd alignment*
+*Deudroedig (unrhyw rhywogaeth) canolig, any caosaidd alignment*
 
 **Anhawster Curo** 13 (hide armor)
 

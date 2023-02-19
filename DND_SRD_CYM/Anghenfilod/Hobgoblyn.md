@@ -1,6 +1,6 @@
 # Hobgoblyn (Hobgoblin)
 
-*Dynolydd (coblyn) canolig, cyfreithlon drwg*
+*Deudroedig (coblyn) canolig, cyfreithlon drwg*
 
 **Anhawster Curo** 18 (chain mail, shield)
 

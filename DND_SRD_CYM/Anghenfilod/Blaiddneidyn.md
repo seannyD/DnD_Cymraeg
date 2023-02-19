@@ -1,6 +1,6 @@
 # Blaiddneidyn (Newidyn) (Werewolf (Lycanthrope))
 
-*Dynolydd (dynol, newidydd siâp) canolig, caosaidd drwg*
+*Deudroedig (plenty y mai, newidydd siâp) canolig, caosaidd drwg*
 
 **Anhawster Curo** 11 in humanoid form, 12 (armwr naturiol) in wolf or hybrid form
 

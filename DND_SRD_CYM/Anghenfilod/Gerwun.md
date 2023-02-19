@@ -1,6 +1,6 @@
 # Gerwun (Grimlock)
 
-*Dynolydd (cethin) canolig, niwtral drwg*
+*Deudroedig (cethin) canolig, niwtral drwg*
 
 **Anhawster Curo** 11
 

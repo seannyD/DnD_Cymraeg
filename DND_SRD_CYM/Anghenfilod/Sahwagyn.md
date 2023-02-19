@@ -1,6 +1,6 @@
 # Sahwagyn (Sahuagin)
 
-*Dynolydd (sahwagyn) canolig, cyfreithlon drwg*
+*Deudroedig (sahwagyn) canolig, cyfreithlon drwg*
 
 **Anhawster Curo** 12 (armwr naturiol)
 

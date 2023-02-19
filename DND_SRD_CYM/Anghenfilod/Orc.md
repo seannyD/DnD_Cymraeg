@@ -1,6 +1,6 @@
 # Orc (Orc)
 
-*Dynolydd (orc) canolig, caosaidd drwg*
+*Deudroedig (orc) canolig, caosaidd drwg*
 
 **Anhawster Curo** 13 (hide armor)
 

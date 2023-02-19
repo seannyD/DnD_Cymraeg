@@ -10,7 +10,7 @@ def md2tex(filepath,destFilepath):
 	html = open(destFilepath).read()
 	html = html.replace('<blockquote>','<details><summary>eng</summary><blockquote>')
 	html = html.replace('</blockquote>','</blockquote></details>')
-	html = "<html>\n"+headerText+"\n"+ html+"\n</html>"
+	html = "<html>\n"+headerText+'\n<div class="info">'+ html+"\n</div></html>"
 	with open(destFilepath,'w') as o:
 		o.write(html)
 
@@ -42,7 +42,7 @@ md2tex("tmp.txt","web/public/index.html")
 folders = [x for x in os.listdir(cdir) if os.path.isdir(os.path.join(cdir, x))]
 
 for folder in folders:
-	
+	print("   "+folder)
 	dfolder = "web/public/"+folder
 	#dfolder = dfolder.replace(" ","_")
 	if not os.path.exists(dfolder):

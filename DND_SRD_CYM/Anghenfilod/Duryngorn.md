@@ -1,4 +1,4 @@
-# Duryngorn (Creadur) (Rhinoceros (Creature))
+# Duryngorn (Creadur) (Rhinoceros (Creature))
 
 *Bwyst mawr, heb aliniad*
 

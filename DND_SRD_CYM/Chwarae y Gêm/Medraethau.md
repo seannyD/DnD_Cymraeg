@@ -239,9 +239,9 @@ You add your Dexterity (Chwimder) modifier to your attack roll and your damage r
 
 Depending on the armor you wear, you might add some or all of your Dexterity (Chwimder) modifier to your Armor Class.
 
-#### Initiative
+#### Initiative (Blaengaredd)
 
-At the beginning of every combat, you roll initiative by making a Dexterity (Chwimder) check. Initiative determines the order of creatures' turns in combat.
+At the beginning of every combat, you roll initiative by making a Dexterity (Chwimder) check. Initiative (Blaengaredd) determines the order of creatures' turns in combat.
 
 > **Hiding**
 >

@@ -118,7 +118,7 @@ Pan rydych chi'n cyraedd lefel 4, ac eto ar lefel 8, 10, 12, 16, a 19, gallwch g
 
 >  When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Osgoi Rhyfeddol  (Uncanny Dodge)
+### Osgoi Rhyfeddol (Uncanny Dodge)
 
 Gan ddechrau ar lefel 5, pan fydd ymosodydd y gallwch ei weld yn llwyddo ag ymosodiad, gallwch ddefnyddio'ch ymateb i haneru difrod yr ymosodiad yn eich erbyn.
 

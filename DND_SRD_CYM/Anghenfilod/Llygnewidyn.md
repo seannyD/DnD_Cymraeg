@@ -1,6 +1,6 @@
 # Llygnewidyn (Newidyn) (Wererat (Lycanthrope))
 
-*Dynolydd (dynol, newidydd siâp) canolig, cyfreithlon drwg*
+*Deudroedig (plenty y mai, newidydd siâp) canolig, cyfreithlon drwg*
 
 **Anhawster Curo** 12
 

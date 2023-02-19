@@ -1,6 +1,6 @@
 # Derwydd (NPC) (Druid (NPC))
 
-*Dynolydd (unrhyw rhywogaeth) canolig, unrhyw aliniad*
+*Deudroedig (unrhyw rhywogaeth) canolig, unrhyw aliniad*
 
 **Anhawster Curo** 11 (16 with *rhisglcen*)
 

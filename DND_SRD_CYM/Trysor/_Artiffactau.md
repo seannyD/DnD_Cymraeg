@@ -22,7 +22,7 @@ While you are charmed by the orb, you can't voluntarily end your attunement to i
 - 1 minor detrimental property
 - 1 major detrimental property
 
-***Swynau***. The orb has 7 charges and regains 1d4+3 expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: *cure wounds* (*adfer niwed*) (5th-level version, 3 charges), *daylight* (*golau dydd*) (1 charge), *death ward* (*cadfarw*) (2 charges), or *scrying* (*ysbio*) (3 charges).
+***Swynau***. The orb has 7 charges and regains 1d4+3 expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: *cure wounds* (*gwella clwyfau*) (5th-level version, 3 charges), *daylight* (*golau dydd*) (1 charge), *death ward* (*cadfarw*) (2 charges), or *scrying* (*ysbio*) (3 charges).
 
 You can also use an action to cast the *detect magic* (*synhwyro hud a lledrith*) spell from the orb without using any charges.
 

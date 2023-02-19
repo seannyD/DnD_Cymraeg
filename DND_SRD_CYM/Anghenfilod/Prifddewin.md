@@ -1,6 +1,6 @@
 # Prifddewin (NPC) (Archmage)
 
-*Dynolydd (unrhyw rhywogaeth) canolig, unrhyw aliniad*
+*Deudroedig (unrhyw rhywogaeth) canolig, unrhyw aliniad*
 
 **Anhawster Curo** 12 (15 with *armwr y dewin*)
 

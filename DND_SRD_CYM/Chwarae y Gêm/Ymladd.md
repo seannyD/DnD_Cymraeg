@@ -18,9 +18,9 @@ The GM determines who might be surprised. If neither side tries to be stealthy, 
 
 If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be surprised even if the other members aren't.
 
-## Initiative
+## Initiative (Blaengaredd)
 
-Initiative determines the order of turns during combat. When combat starts, every participant makes a Dexterity (Chwimder) check to determine their place in the initiative order. The GM makes one roll for an entire group of identical creatures, so each member of the group acts at the same time.
+Initiative (Blaengaredd) determines the order of turns during combat. When combat starts, every participant makes a Dexterity (Chwimder) check to determine their place in the initiative order. The GM makes one roll for an entire group of identical creatures, so each member of the group acts at the same time.
 
 The GM ranks the combatants in order from the one with the highest Dexterity (Chwimder) check total to the one with the lowest. This is the order (called the initiative order) in which they act during each round. The initiative order remains the same from round to round.
 
@@ -408,7 +408,7 @@ Multiple instances of resistance or vulnerability that affect the same damage ty
 
 ### Healing
 
-Unless it results in death, damage isn't permanent. Even death is reversible through powerful magic. Rest can restore a creature's hit points, and magical methods such as a *cure wounds* (*adfer niwed*) spell or a *potion of healing* can remove damage in an instant.
+Unless it results in death, damage isn't permanent. Even death is reversible through powerful magic. Rest can restore a creature's hit points, and magical methods such as a *cure wounds* (*gwella clwyfau*) spell or a *potion of healing* can remove damage in an instant.
 
 When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature's hit points can't exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a druid grants a ranger 8 hit points of healing. If the ranger has 14 current hit points and has a hit point maximum of 20, the ranger regains 6 hit points from the druid, not 8.
 

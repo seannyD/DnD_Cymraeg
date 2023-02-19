@@ -1,6 +1,6 @@
 # Gnôm Dwfn (Gnome, Deep (Svirfneblin))
 
-*Dynolydd gnôm) bach, niwtral da*
+*Deudroedig gnôm) bach, niwtral da*
 
 **Anhawster Curo** 15 (crys cadwynau)
 

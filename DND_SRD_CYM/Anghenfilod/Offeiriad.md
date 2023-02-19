@@ -1,6 +1,6 @@
 # Offeiriad (NPC) (Priest (NPC))
 
-*Dynolydd (unrhyw rhywogaeth) canolig, unrhyw aliniad*
+*Deudroedig (unrhyw rhywogaeth) canolig, unrhyw aliniad*
 
 **Anhawster Curo** 13 (crys cadwynau)
 
@@ -25,7 +25,7 @@
 **Hud a Lledrith**. The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
 
 Cantrips (at will): *golau*, *fflam sanctaidd*, *rhyfeddod*
-lefel 1 (4 slot): *adfer niwed*, *bollt arweinio*, *cysegr*
+lefel 1 (4 slot): *gwella clwyfau*, *bollt arweinio*, *cysegr*
 lefel 2 (3 slot): *adfer bach*, *arf ysbrydol*
 lefel 3 (2 slot): *dadswyno*, *gwarchodion ysbrydol*
 

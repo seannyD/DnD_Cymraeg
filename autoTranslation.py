@@ -18,7 +18,7 @@
 
 
 # Prevent the program from running and overwriting progress
-if True:
+if False:
 	print("\n\nWARNING: Converstion is locked, quitting\n\n")
 	quit()
 
@@ -117,6 +117,7 @@ spellNameContextTranslations = {
 		"-foot radius": "-troedfedd radiws",
 		"-foot line": "-troedfedd, llinell",
 		"-foot cube": "-troedfedd, ciwb",
+		"miles": "millturoedd",
 		"mile": "milltur",
 		" and ": "ac",
 		"Special": "Arbennig"
@@ -133,6 +134,15 @@ spellNameContextTranslations = {
 		"Instantaneous": "Ar unwaith",
 		"Until dispelled": "Nes gwrthswyno",
 		"or triggered": "neu actifadu"
+	},
+	"**Casting Time:**": {
+		"bonus action": "acsiwn bonws",
+		"action": "acsiwn",
+		"minutes": "munud",
+		"minute": "munud",
+		"hours": "awr",
+		"days": "dydd",
+		"day": "dydd"
 	}
 }
 
@@ -144,12 +154,16 @@ def applyOneTranslation(txt,targ,repl,softTranslate=False):
 	
 
 def softTranslate(txt,softTranslations):
+	# don't soft translate title
+	header = txt[:txt.index("\n")]
+	txt = txt[txt.index("\n"):]
 	for tx in softTranslations:
 		for k in tx:
 			repl = tx[k]
 			if type(repl) is str:
 				# Simple string replace
 				txt = applyOneTranslation(txt,k,repl,True)
+	txt = header + txt
 	return(txt)
 
 def translateParts(filepath,translations,translateType=False,titleTranslations=None):
@@ -367,7 +381,9 @@ spellNamesLower = {}
 for s in spellNames:
 	spellNamesLower[s.lower()] = spellNames[s].lower()
 
-convertFolder("DND.SRD.Wiki-0.5.1/Classes/","Dosbarthau",[classContextTranslations,classDescriptionsTranslations], titleTranslations=classTranslations, softTranslations = [spellNamesLower,skillTranslations])
+# (now skipped because we've translated by hand)
+if False:
+	convertFolder("DND.SRD.Wiki-0.5.1/Classes/","Dosbarthau",[classContextTranslations,classDescriptionsTranslations], titleTranslations=classTranslations, softTranslations = [spellNamesLower,skillTranslations])
 
 ##################
 # Treasure

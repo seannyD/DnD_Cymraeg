@@ -1,6 +1,6 @@
 # Beddnewidyn (Newidyn) (Wereboar (Lycanthrope))
 
-*Dynolydd (dynol, newidydd siâp) canolig, niwtral drwg*
+*Deudroedig (plenty y mai, newidydd siâp) canolig, niwtral drwg*
 
 **Anhawster Curo** 10 in humanoid form, 11 (armwr naturiol) in boar or hybrid form
 

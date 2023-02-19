@@ -1,6 +1,6 @@
 # Arthnewidyn (Newidyn) (Werebear (Lycanthrope))
 
-*Dynolydd (dynol, newidydd siâp) canolig, niwtral da*
+*Deudroedig (plenty y mai, newidydd siâp) canolig, niwtral da*
 
 **Anhawster Curo** 10 in humanoid form, 11 (armwr naturiol) in bear and hybrid form
 

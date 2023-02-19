@@ -1,6 +1,6 @@
 # Dallbleidydd Cwlt (NPC) (Cult Fanatic)
 
-*Dynolydd (unrhyw rhywogaeth) canolig, unrhyw aliniad oni bai dda*
+*Deudroedig (unrhyw rhywogaeth) canolig, unrhyw aliniad oni bai dda*
 
 **Anhawster Curo** 13 (leather armor)
 

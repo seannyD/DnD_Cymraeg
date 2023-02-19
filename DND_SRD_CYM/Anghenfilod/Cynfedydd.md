@@ -1,6 +1,6 @@
 # Cynfedydd (NPC) (Tribal Warrior)
 
-*Dynolydd (unrhyw rhywogaeth) canolig, unrhyw aliniad*
+*Deudroedig (unrhyw rhywogaeth) canolig, unrhyw aliniad*
 
 **Anhawster Curo** 12 (hide armor)
 

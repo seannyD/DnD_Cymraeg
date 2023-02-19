@@ -16,18 +16,18 @@
 
 # Dosbarthau
 
--  [Bardd (Bard)](Dosbarthau/Bardd.html)
--  [Clerig (Cleric)](Dosbarthau/Clerig.html)
--  [Crwydryn (Ranger)](Dosbarthau/Crwydryn.html)
--  [Derwydd (Druid)](Dosbarthau/Derwydd.html)
--  [Dewin (Wizard)](Dosbarthau/Dewin.html)
--  [Dyhiryn (Rogue)](Dosbarthau/Dyhiryn.html)
--  [Gwylltyn (Barbarian)](Dosbarthau/Gwylltyn.html)
--  [Llochesydd (Warlock)](Dosbarthau/Llochesydd.html)
--  [Mynach (Monk)](Dosbarthau/Mynach.html)
--  [Paladin (Paladin)](Dosbarthau/Paladin.html)
--  [Swynydd (Sorcerer)](Dosbarthau/Swynydd.html)
--  [Ymladdydd (Fighter)](Dosbarthau/Ymladdydd.html)
+-  [Bardd (Bard)](Dosbarthau/Bardd_cy_.html)
+-  [Clerig (Cleric)](Dosbarthau/Clerig_cy.html)
+-  [Crwydryn (Ranger)](Dosbarthau/Crwydryn_cy.html)
+-  [Derwydd (Druid)](Dosbarthau/Derwydd_cy.html)
+-  [Dewin (Wizard)](Dosbarthau/Dewin_cy.html)
+-  [Dyhiryn (Rogue)](Dosbarthau/Dyhiryn_cy.html)
+-  [Gwylltyn (Barbarian)](Dosbarthau/Gwylltyn_cy.html)
+-  [Llochesydd (Warlock)](Dosbarthau/Llochesydd_cy.html)
+-  [Mynach (Monk)](Dosbarthau/Mynach_cy.html)
+-  [Paladin (Paladin)](Dosbarthau/Paladin_cy.html)
+-  [Swynydd (Sorcerer)](Dosbarthau/Swynydd_cy.html)
+-  [Ymladdydd (Fighter)](Dosbarthau/Ymladdydd_cy.html)
 
 # Cymeriadaeth
 

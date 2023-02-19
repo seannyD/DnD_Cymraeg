@@ -1,6 +1,6 @@
 # Teigrnewidyn (Newidyn) (Weretiger (Lycanthrope))
 
-*Dynolydd (dynol, newidydd siâp) canolig, niwtral*
+*Deudroedig (plenty y mai, newidydd siâp) canolig, niwtral*
 
 **Anhawster Curo** 12
 

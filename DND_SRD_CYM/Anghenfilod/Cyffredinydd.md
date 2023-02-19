@@ -1,6 +1,6 @@
 # Cyffredinydd (NPC) (Commoner (NPC))
 
-*Dynolydd (unrhyw rhywogaeth) canolig, unrhyw aliniad*
+*Deudroedig (unrhyw rhywogaeth) canolig, unrhyw aliniad*
 
 **Anhawster Curo** 10
 

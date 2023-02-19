@@ -1,6 +1,6 @@
 # Coblyn (Goblin)
 
-*Dynolydd (coblyn) bach, niwtral drwg*
+*Deudroedig (coblyn) bach, niwtral drwg*
 
 **Anhawster Curo** 15 (leather armor, shield)
 

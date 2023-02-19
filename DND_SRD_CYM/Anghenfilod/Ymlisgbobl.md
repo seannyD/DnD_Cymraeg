@@ -1,6 +1,6 @@
 # Ymlisgbobl (Lizardfolk)
 
-*Dynolydd (ymlisgbobl) canolig, niwtral*
+*Deudroedig (ymlisgbobl) canolig, niwtral*
 
 **Anhawster Curo** 15 (natural armor, shield)
 

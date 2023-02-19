@@ -1,6 +1,6 @@
 # Madfallbobl (Kobold)
 
-*Dynolydd (madfallbobl) bach, cyfreithlon drwg*
+*Deudroedig (madfallbobl) bach, cyfreithlon drwg*
 
 **Anhawster Curo** 12
 

@@ -1,6 +1,6 @@
 # Elff, Ellyll (Elf, Drow)
 
-*Dynolydd (elff) canolig, niwtral drwg*
+*Deudroedig (elff) canolig, niwtral drwg*
 
 **Anhawster Curo** 15 (crys cadwynau)
 

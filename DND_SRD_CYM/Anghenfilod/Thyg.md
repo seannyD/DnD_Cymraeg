@@ -1,6 +1,6 @@
 # Thyg (NPC) (Thug)
 
-*Dynolydd (unrhyw rhywogaeth) canolig, unrhyw aliniad oni bai dda*
+*Deudroedig (unrhyw rhywogaeth) canolig, unrhyw aliniad oni bai dda*
 
 **Anhawster Curo** 11 (leather armor)
 

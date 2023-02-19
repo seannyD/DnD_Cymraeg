@@ -1,6 +1,6 @@
 # Bonheddig (NPC) (Noble)
 
-*Dynolydd (unrhyw rhywogaeth) canolig, unrhyw aliniad*
+*Deudroedig (unrhyw rhywogaeth) canolig, unrhyw aliniad*
 
 **Anhawster Curo** 15 (brestblad)
 

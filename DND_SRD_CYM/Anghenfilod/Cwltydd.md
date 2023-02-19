@@ -1,6 +1,6 @@
 # Cwltydd (NPC) (Cultist (NPC))
 
-*Dynolydd (unrhyw rhywogaeth) canolig, unrhyw aliniad oni bai dda*
+*Deudroedig (unrhyw rhywogaeth) canolig, unrhyw aliniad oni bai dda*
 
 **Anhawster Curo** 12 (leather armor)
 

@@ -1,6 +1,6 @@
 # Sgowt (NPC) (Scout)
 
-*Dynolydd (unrhyw rhywogaeth) canolig, unrhyw aliniad*
+*Deudroedig (unrhyw rhywogaeth) canolig, unrhyw aliniad*
 
 **Anhawster Curo** 13 (leather armor)
 

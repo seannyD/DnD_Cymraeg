@@ -1,6 +1,6 @@
 # Môrbobl (Merfolk)
 
-*Dynolydd (môrbobl) canolig, niwtral*
+*Deudroedig (môrbobl) canolig, niwtral*
 
 **Anhawster Curo** 11
 

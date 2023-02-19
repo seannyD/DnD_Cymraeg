@@ -1,6 +1,6 @@
 # Udfil (Gnoll)
 
-*Dynolydd (udfil) canolig, caosaidd drwg*
+*Deudroedig (udfil) canolig, caosaidd drwg*
 
 **Anhawster Curo** 15 (hide armor, shield)
 

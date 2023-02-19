@@ -51,14 +51,14 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 | 9     | +4                | -                                       | 3                    | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
 | 10    | +4                | Nodwedd Achen Derwyddol                 | 4                    | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
 | 11    | +4                | -                                       | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12    | +4                | Cynydd Sgôr Medrae                      | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12    | +4                | Cynydd Sgôr Medraeth                    | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
 | 13    | +5                | -                                       | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 14    | +5                | Nodwedd Achen Derwyddol                 | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 15    | +5                | -                                       | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16    | +5                | Cynydd Sgôr Medrae                      | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16    | +5                | Cynydd Sgôr Medraeth                    | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
 | 17    | +6                | -                                       | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
 | 18    | +6                | Corff Difuddiog, Bwystswyno             | 4                    | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19    | +6                | Cynydd Sgôr Medrae                      | 4                    | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 19    | +6                | Cynydd Sgôr Medraeth                    | 4                    | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20    | +6                | Archderwydd                             | 4                    | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 |       |                   |                                         |                      |     |     |     |     |     |     |     |     |     |
 

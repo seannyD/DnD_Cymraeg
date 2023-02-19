@@ -1,6 +1,6 @@
 # Bwgarth (Bugbear)
 
-*Dynolydd (coblyn) canolig, caosaidd drwg*
+*Deudroedig (coblyn) canolig, caosaidd drwg*
 
 **Anhawster Curo** 16 (hide armor, shield)
 
