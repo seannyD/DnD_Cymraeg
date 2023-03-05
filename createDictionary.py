@@ -13,6 +13,8 @@ def clean(x):
 	x = x.replace("*","").replace("#","").replace(":","").strip()
 	if x.count("(")==0 or x.count(")")==0:
 		x = x.replace("(","").replace(")","")
+	if x.startswith("(") and x.endswith(")"):
+		x = x[1:-1]
 	x = x.title()
 	if x=="Dc":
 		x = "DC"
@@ -48,6 +50,7 @@ for file in [x for x in os.listdir("translationTables/") if x.endswith("json")]:
 			cym = clean(cym)
 			if (not eng+cat in seenEng) and includeWord(eng):
 				seenEng.append(eng+cat)
+				cat = cat.replace("Race","Species")
 				entries.append({"English": eng, "Cymraeg":cym,"Category":cat})
 			
 with open('web/public/Geiriadur/geiriadur.json', 'w') as f:

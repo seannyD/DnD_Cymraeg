@@ -22,6 +22,9 @@ if False:
 	print("\n\nWARNING: Converstion is locked, quitting\n\n")
 	quit()
 
+# List of files we should not overwrite
+completedFiles = ["Anturio.md"]
+
 # Bite, claw, slam
 
 import os,json,re,copy
@@ -309,6 +312,9 @@ def translateTitle(txt, translationTable):
 def convertFolder(folder,destFolderName, translations=[], destBaseFolder="DND_SRD_CYM", translateType=False, titleTranslations=None,softTranslations=[]):
 	files = os.listdir(folder)
 	files = [x for x in files if x.endswith(".md")]
+	# remove files that we've translated already
+	files = [x for x in files if not x in completedFiles]
+	
 	for f in files:
 		if f in ["## Spell Lists (Wikilinked).md","## Spell Lists.md"]:
 			continue

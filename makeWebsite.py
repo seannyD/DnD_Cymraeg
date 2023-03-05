@@ -10,7 +10,10 @@ def md2tex(filepath,destFilepath):
 	html = open(destFilepath).read()
 	html = html.replace('<blockquote>','<details><summary>eng</summary><blockquote>')
 	html = html.replace('</blockquote>','</blockquote></details>')
-	html = "<html>\n"+headerText+'\n<div class="info">'+ html+"\n</div></html>"
+	if(filepath.endswith("index.md")):
+		html = '<html>\n<div class="info">'+ html+"\n</div></html>"
+	else:
+		html = "<html>\n"+headerText+'\n<div class="info">'+ html+"\n</div></html>"
 	with open(destFilepath,'w') as o:
 		o.write(html)
 
