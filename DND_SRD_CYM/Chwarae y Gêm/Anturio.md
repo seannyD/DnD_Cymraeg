@@ -376,7 +376,7 @@ Ar ôl treulio tri dydd o amser rhydd yn gwella, gallwch wneud cais arbed DC 15 
 
 Mae’r amser rhwng anturiaethau yn gyfle gwych i wneud ymchwil, gan enill dealltwriaeth o ddirgelion sydd wedi dod i’r amlwg yn ystod yr ymgyrch. Gall ymchwil gynnwys chwilota lyfrynnau llychlyd a sgroliau sy'n dadfeilio mewn llyfrgell neu brynu diodydd i drigolion lleol i ceisio hel sïon a chlecs o’u gwefusau.
 
-Pan ddechreuwch ar eich ymchwil, bydd y DM yn penderfynu a yw'r wybodaeth ar gael, faint o ddiwrnodau o amser segur y bydd yn ei gymryd i ddod o hyd iddi, ac a oes unrhyw gyfyngiadau ar eich ymchwil (fel yr angen i chwilio am unigolyn, llyfr, neu lleoliad). Efallai y bydd y DM hefyd yn gofyn i chi wneud un cais medraeth neu fwy, megis gwiriad Deallusrwydd (Ymchwilio) i ddod o hyd i gliwiau sy'n cyfeirio at y wybodaeth rydych chi'n ei cheisio, neu cais Presenoldeb (Perswadio) i sicrhau cymorth rhywun. Unwaith y bydd yr amodau hynny wedi'u bodloni, byddwch yn dysgu'r wybodaeth os yw ar gael.
+Pan ddechreuwch ar eich ymchwil, bydd y DM yn penderfynu a yw'r wybodaeth ar gael, faint o ddiwrnodau o amser segur y bydd yn ei gymryd i ddod o hyd iddi, ac a oes unrhyw gyfyngiadau ar eich ymchwil (fel yr angen i chwilio am unigolyn, llyfr, neu lleoliad). Efallai y bydd y DM hefyd yn gofyn i chi wneud un cais gallu neu fwy, megis gwiriad Deallusrwydd (Ymchwilio) i ddod o hyd i gliwiau sy'n cyfeirio at y wybodaeth rydych chi'n ei cheisio, neu cais Presenoldeb (Perswadio) i sicrhau cymorth rhywun. Unwaith y bydd yr amodau hynny wedi'u bodloni, byddwch yn dysgu'r wybodaeth os yw ar gael.
 
 Ar gyfer pob diwrnod o ymchwil, rhaid i chi wario 1 gp i dalu am eich costiau. Mae'r gost hon yn ychwanegol at eich costau ffordd o fyw arferol.
 
@@ -390,7 +390,7 @@ Ar gyfer pob diwrnod o ymchwil, rhaid i chi wario 1 gp i dalu am eich costiau. M
 
 Gallwch dreulio amser rhwng anturiaethau yn dysgu iaith newydd neu hyfforddi gyda set o offer. Efallai y bydd eich DM yn caniatáu opsiynau hyfforddi ychwanegol.
 
-Yn gyntaf, rhaid i chi ddod o hyd i hyfforddwr sy'n barod i'ch dysgu. Mae'r DM yn penderfynnu pa mor hir y mae'n ei gymryd, ac a oes angen un neu fwy o cais medraeth.
+Yn gyntaf, rhaid i chi ddod o hyd i hyfforddwr sy'n barod i'ch dysgu. Mae'r DM yn penderfynnu pa mor hir y mae'n ei gymryd, ac a oes angen un neu fwy o cais gallu.
 
 Mae'r hyfforddiant yn para 250 diwrnod ac yn costio 1 gp y dydd. Ar ôl i chi dreulio'r amser a'r arian angenrheidiol, rydych chi'n dysgu'r iaith newydd neu'n ennill hyfedredd gyda'r offer newydd.
 

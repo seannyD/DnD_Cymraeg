@@ -1,29 +1,39 @@
-# Medraethau (Abilities)
+# Galluoedd (Abilities)
 
-Six abilities provide a quick description of every creature's physical and mental characteristics:
+Mae 6 gallu yn rhoi disgrifiad byr o nodweddion corfforol a meddyliol pob creadur:
 
-- **Strength (Cryfder)**, measuring physical power
-- **Dexterity (Chwimder)**, measuring agility
-- **Constitution (Cyfansoddiad)**, measuring endurance
-- **Intelligence (Deallusrwydd)**, measuring reasoning and memory
-- **Wisdom (Doethder)**, measuring perception and insight
-- **Charisma (Presenoldeb)**, measuring force of personality
+- **Cryfder (Strength)**, sy'n mesur pwer corfforol
+- **Chwimder (Dexterity)**, sy'n mesur ystwythder
+- **Cyfansoddiad (Constitution)**, sy'n mesur durwch
+- **Deallusrwydd (Intelligence)**, sy'n mesur rhesymu a chof
+- **Doethder (Wisdom)**, sy'n mesur canfyddiad a mewnwelediad
+- **Presenoldeb (Charisma)**, sy'n mesur grym personoliaeth
 
-Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities-a creature's assets as well as weaknesses.
+A yw cymeriad yn llawn cyhyrau ac yn graff? Gwybodus a swynol? Yn ystwyth ac yn wydn? Mae sgorau gallu yn diffinio'r rhinweddau hyn - asedau creadur yn ogystal â gwendidau.
 
-The three main rolls of the game-the ability check, the saving throw, and the attack roll-rely on the six ability scores. The book's introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
+Mae tair prif rôl y gêm - y cais gallu, y cais achyb, a'r rôl ymosod yn dibynnu ar y chwe sgôr gallu. Mae cyflwyniad y llyfr yn disgrifio'r rheol sylfaenol y tu ôl i'r rholiau hyn: rholio d20, ychwanegu addasydd gallu sy'n deillio o un o'r chwe sgôr gallu, a chymharu'r cyfanswm â tharged.
+
+>  Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities-a creature's assets as well as weaknesses.
+>  
+>  The three main rolls of the game-the ability check, the saving throw, and the attack roll-rely on the six ability scores. The book's introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
 
 ## Ability Scores and Modifiers
 
-Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
+Mae gan creadr sgôr ar gyfer pob gallu, rhif sy'n diffinio maint y gallu hwnnw. Mae sgôr gallu nid yn unig yn fesur o alluoedd cynhenid, ond mae hefyd yn cwmpasu hyfforddiant a chymhwysedd creadur mewn gweithgareddau sy'n gysylltiedig â'r gallu hwnnw.
 
-A score of 10 or 11 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of 18 is the highest that a person usually reaches. Adventurers can have scores as high as 20, and monsters and divine beings can have scores as high as 30.
+Sgôr o 10 neu 11 yw'r cyfartaledd dynol arferol, ond mae gallu anturiaethwyr a llawer o angenfilod yn uwch na'r cyfartaledd yn y rhan fwyaf o alluoedd. Sgôr o 18 yw'r uchaf y mae person fel arfer yn ei gyrraedd. Gall anturwyr gael sgoriau mor uchel ag 20, a gall bwystfilod a bodau dwyfol gael sgoriau mor uchel â 30.
 
-Each ability also has a modifier, derived from the score and ranging from -5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
+Mae hefyd gan bob gallu addasydd, sy'n deillio o'r sgôr ac yn amrywio o -5 (ar gyfer sgôr gallu o 1) i +10 (ar gyfer sgôr o 30). Mae’r tabl Sgoriau Gallu ac Addaswyr yn nodi’r addaswyr gallu ar gyfer yr ystod o sgorau gallu posibl, o 1 i 30.
 
-**Table- Ability Scores and Modifiers**
+>  Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
+>  
+>  A score of 10 or 11 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of 18 is the highest that a person usually reaches. Adventurers can have scores as high as 20, and monsters and divine beings can have scores as high as 30.
+>  
+>  Each ability also has a modifier, derived from the score and ranging from -5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
 
-| Score | Modifier |
+**Tabl- Sgôriau Gallu ac Addasydd**
+
+| Sgôr  | Addasydd |
 |-------|----------|
 | 1     | -5       |
 | 2-3   | -4       |
@@ -43,23 +53,37 @@ Each ability also has a modifier, derived from the score and ranging from -5 (fo
 | 30    | +10      |
 |       |          |
 
-To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down).
+I bennu addasydd gallu heb ymgynghori â'r tabl, tynnwch 10 o'r sgôr gallu ac yna rhannwch y cyfanswm â 2 (talgrynnu i lawr).
 
-Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.
+Oherwydd bod addaswyr gallu yn effeithio ar bron pob rhol ymosodiad, gwirio gallu, a thaflu arbed, mae addaswyr gallu yn dod i fyny mewn chwarae yn amlach na'u sgoriau cysylltiedig.
 
-# Advantage and Disadvantage
+>  To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down).
+>  
+>  Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.
 
-Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
+# Mantais ac Anfantais (Advantage and Disadvantage)
 
-If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don't roll more than one additional d20. If two favorable situations grant advantage, for example, you still roll only one additional d20.
+Weithiau bydd gallu neu swyn arbennig yn dweud wrthych fod gennych fantais neu anfantais o ran gwiriad gallu, tafliad arbed, neu rhol ymosod. Pan fydd hynny'n digwydd, rydych chi'n rholio ail d20 pan fyddwch chi'n gwneud y rhol. Defnyddiwch y rhif uchaf o'r ddwy rolyn os oes gennych fantais, a defnyddiwch y rholyn isaf os oes gennych anfantais. Er enghraifft, os oes gennych chi anfantais a rholiwch 17 a 5, rydych chi'n defnyddio'r 5. Os oes gennych chi fantais yn lle hynny a rholiwch y rhifau hynny, rydych chi'n defnyddio'r 17.
 
-If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.
+Os yw sawl effaith ar rhol a bod pob un yn rhoi mantais neu'n gosod anfantais arno, ni fyddwch yn rholio mwy nag un d20 ychwanegol. Os bydd dwy sefyllfa ffafriol yn rhoi mantais, er enghraifft, dim ond un d20 ychwanegol y byddwch yn ei rolio.
 
-When you have advantage or disadvantage and something in the game, such as the halfling's Lucky trait, lets you reroll or replace the d20, you can reroll or replace only one of the dice. You choose which one. For example, if a halfling has advantage or disadvantage on an ability check and rolls a 1 and a 13, the halfling could use the Lucky trait to reroll the 1.
+Os bydd amgylchiadau yn peri i rhol fod o fantais ac anfantais, ystyrir nad oes genych y naill na'r llall, ac yr ydych yn rholio un d20. Mae hyn yn wir hyd yn oed os yw amgylchiadau lluosog yn gosod anfantais a dim ond un yn rhoi mantais neu i'r gwrthwyneb. Mewn sefyllfa o'r fath, nid oes gennych fantais nac anfantais.
 
-You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The
+Pan fydd gennych fantais neu anfantais a bod rhywbeth yn y gêm, fel nodwedd Lwcus plant y Bryn, yn gadael i chi ail-rholio neu amnewid y d20, gallwch ail-rhonlio neu amnewid un yn unig o'r dis. Chi sy'n dewis pa un. Er enghraifft, os oes gan plentyn y Bryn fantais neu anfantais ar wiriad gallu ac yn rholio 1 a 13, gall defnyddio'r nodwedd Lwcus i ail-rolio'r 1.
 
-GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
+Byddwch fel arfer yn cael mantais neu anfantais trwy ddefnyddio galluoedd, acsiwnau neu swynau arbennig. Gall ysbrydoliaeth hefyd roi mantais cymeriad. Mae'r GM hefyd yn gallu penderfynu bod amgylchiadau'n dylanwadu ar rhol er mwyn rhoi mantais neu gosod anfantais.
+
+>  Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
+>  
+>  If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don't roll more than one additional d20. If two favorable situations grant advantage, for example, you still roll only one additional d20.
+>  
+>  If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.
+>  
+>  When you have advantage or disadvantage and something in the game, such as the halfling's Lucky trait, lets you reroll or replace the d20, you can reroll or replace only one of the dice. You choose which one. For example, if a halfling has advantage or disadvantage on an ability check and rolls a 1 and a 13, the halfling could use the Lucky trait to reroll the 1.
+>  
+>  You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The
+>  
+>  GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
 
 # Proficiency Bonus
 
