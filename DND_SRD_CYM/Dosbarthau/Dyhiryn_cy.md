@@ -47,22 +47,22 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 | 1     | +2                | 1d6          | Arbenigedd, Ymosodiad Sneclyd, Cuddiaeth Lladron |
 | 2     | +2                | 1d6          | Acsiwn Cyfrwys                         |
 | 3     | +2                | 2d6          | Archdeip Dihirol                      |
-| 4     | +2                | 2d6          | Cynydd Sgôr Medraeth              |
+| 4     | +2                | 2d6          | Cynydd Sgôr Gallu              |
 | 5     | +3                | 3d6          | Osgoi Rhyfeddol                          |
 | 6     | +3                | 3d6          | Arbenigedd                              |
 | 7     | +3                | 4d6          | Dihangu                                |
-| 8     | +3                | 4d6          | Cynydd Sgôr Medraeth              |
+| 8     | +3                | 4d6          | Cynydd Sgôr Gallu              |
 | 9     | +4                | 5d6          | Nodwedd Archdeip Dihirol              |
-| 10    | +4                | 5d6          | Cynydd Sgôr Medraeth              |
+| 10    | +4                | 5d6          | Cynydd Sgôr Gallu              |
 | 11    | +4                | 6d6          | Talent Dibynadwy                        |
-| 12    | +4                | 6d6          | Cynydd Sgôr Medraeth              |
+| 12    | +4                | 6d6          | Cynydd Sgôr Gallu              |
 | 13    | +5                | 7d6          | Nodwedd Archdeip Dihirol              |
 | 14    | +5                | 7d6          | Synnwyr dall                             |
 | 15    | +5                | 8d6          | Meddwl llithrig                          |
-| 16    | +5                | 8d6          | Cynydd Sgôr Medraeth              |
+| 16    | +5                | 8d6          | Cynydd Sgôr Gallu              |
 | 17    | +6                | 9d6          | Nodwedd Archdeip Dihirol              |
 | 18    | +6                | 9d6          | Gochelus                                |
-| 19    | +6                | 10d6         | Cynydd Sgôr Medraeth              |
+| 19    | +6                | 10d6         | Cynydd Sgôr Gallu              |
 | 20    | +6                | 10d6         | Lwc Rhyfeddol                         |
 |       |                   |              |                                        |
 
@@ -112,7 +112,7 @@ Ar lefel 3, rydych chi'n dewis archdeip i efelychu wrth ymarfer eich galluoedd t
 
 >  At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities: Thief, Assassin, or Arcane Trickster, all detailed at the end of the class description. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
-### Cynydd Sgôr Medraeth
+### Cynydd Sgôr Gallu
 
 Pan rydych chi'n cyraedd lefel 4, ac eto ar lefel 8, 10, 12, 16, a 19, gallwch gynyddu un sgôr gallu o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr gallu o'ch dewis gan 1. Gallwch chi ddim cynyddu sgôr gallu uwch na 20 gan ddefnyddio'r nodwedd hon.
 
@@ -132,7 +132,7 @@ Gan ddechrau ar lefel 7, gallwch chi osgoi rhai effeithiau ardaloedd, fel tân d
 
 ### Talent Dibynadwy (Reliable Talent)
 
-Erbyn lefel 11, rydych chi wedi perfeithio'r sgiliau rydych chi wedi'u dewis. Pryd bynnag y gwnewch cais medraeth sy'n caniatáu i chi ychwanegu'ch bonws hyfedredd, gallwch drin rhol d20 o 9 neu lai fel 10.
+Erbyn lefel 11, rydych chi wedi perfeithio'r sgiliau rydych chi wedi'u dewis. Pryd bynnag y gwnewch cais gallu sy'n caniatáu i chi ychwanegu'ch bonws hyfedredd, gallwch drin rhol d20 o 9 neu lai fel 10.
 
 >  By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
@@ -156,7 +156,7 @@ Gan ddechrau ar lefel 18, rydych chi mor ochelgar fel mai anaml y bydd ymosodydd
 
 ### Lwc Rhyfeddol (Stroke of Luck)
 
-Ar lefel yr 20fed, mae gennych chi ddawn ryfeddol am lwyddo pan fydd angen. Os yw'ch ymosodiad yn methu ar targed o fewn cyraedd, gallwch chi droi'r golled yn ergyd. Fel arall, os byddwch yn methu cais medraeth, gallwch drin y rhol d20 fel 20.
+Ar lefel yr 20fed, mae gennych chi ddawn ryfeddol am lwyddo pan fydd angen. Os yw'ch ymosodiad yn methu ar targed o fewn cyraedd, gallwch chi droi'r golled yn ergyd. Fel arall, os byddwch yn methu cais gallu, gallwch drin y rhol d20 fel 20.
 
 Unwaith y byddwch chi'n defnyddio'r nodwedd hon, ni allwch ei ddefnyddio eto nes i chi orffen saib byr neu hir.
 

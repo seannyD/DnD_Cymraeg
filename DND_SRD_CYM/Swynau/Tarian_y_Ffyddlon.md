@@ -10,8 +10,4 @@
 
 **Parhad:** Canolbwyntio, hyd at 10  munud
 
-### Cyfieithiad Awtomatig
-
-Mae cae symudliw yn ymddangos ac yn amgylchynu creadur o'ch dewis o fewn yr ystod, gan roi bonws +2 iddo i AC am y swyn.
-
->  A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
+A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.

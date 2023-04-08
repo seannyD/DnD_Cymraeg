@@ -4,7 +4,7 @@
 
 Dwfnuns share certain racial traits as a result of their infernal descent.
 
-***Cynydd Sgôr Medraeth***. Your Intelligence score increases by 1, and your Charisma score increases by 2.
+***Cynydd Sgôr Gallu***. Your Intelligence score increases by 1, and your Charisma score increases by 2.
 
 ***Oed***. Dwfnuns mature at the same rate as humans but live a few years longer.
 

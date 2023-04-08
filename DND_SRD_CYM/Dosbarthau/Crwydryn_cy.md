@@ -47,22 +47,22 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 | 1     | +2                | Gelyn Ffafredig, Fforydd Naturiol                 | -            | -   | -   | -   | -   | -   |
 | 2     | +2                | Arddull Ymladd, Swyno                             | 2            | 2   | -   | -   | -   | -   |
 | 3     | +2                | Archdeip Crwydryn, Ymwybyddiaeth Cyntefin         | 3            | 3   | -   | -   | -   | -   |
-| 4     | +2                | Cynydd Sgôr Medraeth                              | 3            | 3   | -   | -   | -   | -   |
+| 4     | +2                | Cynydd Sgôr Gallu                              | 3            | 3   | -   | -   | -   | -   |
 | 5     | +3                | Ymosodiad Ychwanegol                              | 4            | 4   | 2   | -   | -   | -   |
 | 6     | +3                | Gwelliant i Gelyn Ffafredig a Fforio Naturiol     | 4            | 4   | 2   | -   | -   | -   |
 | 7     | +3                | Nodwedd Archdeip Crwydryn                         | 5            | 4   | 3   | -   | -   | -   |
-| 8     | +3                | Cynydd Sgôr Medraeth, Llam y Tir                  | 5            | 4   | 3   | -   | -   | -   |
+| 8     | +3                | Cynydd Sgôr Gallu, Llam y Tir                  | 5            | 4   | 3   | -   | -   | -   |
 | 9     | +4                | -                                                 | 6            | 4   | 3   | 2   | -   | -   |
 | 10    | +4                | Gwelliant i Fforio Naturio, Cuddio yn yr Agored   | 6            | 4   | 3   | 2   | -   | -   |
 | 11    | +4                | Nodwedd Archdeip Crwydryn                         | 7            | 4   | 3   | 3   | -   | -   |
-| 12    | +4                | Cynydd Sgôr Medraeth                              | 7            | 4   | 3   | 3   | -   | -   |
+| 12    | +4                | Cynydd Sgôr Gallu                              | 7            | 4   | 3   | 3   | -   | -   |
 | 13    | +5                | -                                                 | 8            | 4   | 3   | 3   | 1   | -   |
 | 14    | +5                | Gwelliant i Gelyn Ffafredig, Diflannu             | 8            | 4   | 3   | 3   | 1   | -   |
 | 15    | +5                | Nodwedd Archdeip Crwydryn                         | 9            | 4   | 3   | 3   | 2   | -   |
-| 16    | +5                | Cynydd Sgôr Medraeth                              | 9            | 4   | 3   | 3   | 2   | -   |
+| 16    | +5                | Cynydd Sgôr Gallu                              | 9            | 4   | 3   | 3   | 2   | -   |
 | 17    | +6                | -                                                 | 10           | 4   | 3   | 3   | 3   | 1   |
 | 18    | +6                | Synhwyrau Gwyllt                                  | 10           | 4   | 3   | 3   | 3   | 1   |
-| 19    | +6                | Cynydd Sgôr Medraeth                              | 11           | 4   | 3   | 3   | 3   | 2   |
+| 19    | +6                | Cynydd Sgôr Gallu                              | 11           | 4   | 3   | 3   | 3   | 2   |
 | 20    | +6                | Lleiddiad y Gelyn                                 | 11           | 4   | 3   | 3   | 3   | 2   |
 |       |                   |                                                   |              |     |     |     |     |     |
 
@@ -203,7 +203,7 @@ Gan ddechrau ar lefel 3, gallwch ddefnyddio'ch acsiwn a gwario un slot swyno crw
 
 >  Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.
 
-### Cynydd Sgôr Medraeth
+### Cynydd Sgôr Gallu
 
 Pan rydych chi'n cyraedd lefel 4, ac eto ar lefel 8, 12, 16, a 19, gallwch gynyddu un sgôr gallu o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr gallu o'ch dewis gan 1. Gallwch chi ddim cynyddu sgôr gallu uwch na 20 gan ddefnyddio'r nodwedd hon.
 

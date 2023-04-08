@@ -45,22 +45,22 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 | 1     | +2                | Gorwylltrwydd, Amddifyn Heb Arfwisg  | 2          | +2              |
 | 2     | +2                | Ymosod Byrbwyll, Synhwyro Perygl     | 2          | +2              |
 | 3     | +2                | Llwybr Gyntefig                      | 3          | +2              |
-| 4     | +2                | Cynydd Sgôr Medraeth                 | 3          | +2              |
+| 4     | +2                | Cynydd Sgôr Gallu                 | 3          | +2              |
 | 5     | +3                | Ymosodiad Ychwanegol, Symudiad Chwim | 3          | +2              |
 | 6     | +3                | Nodwedd Llwybr Gyntefig              | 4          | +2              |
 | 7     | +3                | Greddf Wyllt                         | 4          | +2              |
-| 8     | +3                | Cynydd Sgôr Medraeth                 | 4          | +2              |
+| 8     | +3                | Cynydd Sgôr Gallu                 | 4          | +2              |
 | 9     | +4                | Cridigol Gwylltfilaidd (1 dis)       | 4          | +3              |
 | 10    | +4                | Nodwedd Llwybr Gyntefig              | 4          | +3              |
 | 11    | +4                | Gorwyllt Dieiriach                   | 4          | +3              |
-| 12    | +4                | Cynydd Sgôr Medraeth                 | 5          | +3              |
+| 12    | +4                | Cynydd Sgôr Gallu                 | 5          | +3              |
 | 13    | +5                | Cridigol Gwylltfilaidd (2 dis)       | 5          | +3              |
 | 14    | +5                | Nodwedd Llwybr Gyntefi               | 5          | +3              |
 | 15    | +5                | Gorwyllt Parhaus                     | 5          | +3              |
-| 16    | +5                | Cynydd Sgôr Medraeth                 | 5          | +4              |
+| 16    | +5                | Cynydd Sgôr Gallu                 | 5          | +4              |
 | 17    | +6                | Cridigol Gwylltfilaidd (3 dis)       | 6          | +4              |
 | 18    | +6                | Cryfder Anorchfygol                  | 6          | +4              |
-| 19    | +6                | Cynydd Sgôr Medraeth                 | 6          | +4              |
+| 19    | +6                | Cynydd Sgôr Gallu                 | 6          | +4              |
 | 20    | +6                | Gorchestydd Cyntefig                 | Unlimited  | +4              |
 |       |                   |                                      |            |                 |
 
@@ -130,7 +130,7 @@ Mae eich dewis yn caniatáu nodweddion ar y 3ydd lefel ac eto ar lefel 6, 10 a 1
 
 >  At 3rd level, you choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Totem Warrior, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
 
-### Cynydd Sgôr Medraeth
+### Cynydd Sgôr Gallu
 
 Pan rydych chi'n cyraedd lefel 4, ac eto ar lefel 8, 12, 16, a 19, gallwch gynyddu un sgôr gallu o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr gallu o'ch dewis gan 1. Gallwch chi' ddim cynyddu sgôr gallu uwch na 20 gan ddefnyddio'r nodwedd hon.
 

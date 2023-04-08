@@ -90,7 +90,7 @@
 
 # Chwarae y Gêm
 
--  [Medraethau]
+-  [Galluoedd]
 -  [Anturio]
 -  [Ymladd]
 

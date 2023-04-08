@@ -47,22 +47,22 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 | 1     | +2                | Arddull Ymladd, Ail Wynt                       |
 | 2     | +2                | Acsiwn Ychwanegol (un defnydd)                            |
 | 3     | +2                | Archdeip Marsial                                 |
-| 4     | +2                | Cynydd Sgôr Medraeth                         |
+| 4     | +2                | Cynydd Sgôr Gallu                         |
 | 5     | +3                | Ymosodiad Ychwanegol                                      |
-| 6     | +3                | Cynydd Sgôr Medraeth                         |
+| 6     | +3                | Cynydd Sgôr Gallu                         |
 | 7     | +3                | Nodwedd Archdeip Marsial                         |
-| 8     | +3                | Cynydd Sgôr Medraeth                         |
+| 8     | +3                | Cynydd Sgôr Gallu                         |
 | 9     | +4                | Anorchfygol (un defnydd)                             |
 | 10  | +4                | Nodwedd Archdeip Marsial                         |
 | 11  | +4                | Ymosodiad Ychwanegol (2)                                  |
-| 12  | +4                | Cynydd Sgôr Medraeth                         |
+| 12  | +4                | Cynydd Sgôr Gallu                         |
 | 13  | +5                | Anorchfygol (dau defnydd)                            |
-| 14  | +5                | Cynydd Sgôr Medraeth                         |
+| 14  | +5                | Cynydd Sgôr Gallu                         |
 | 15  | +5                | Nodwedd Archdeip Marsial                         |
-| 16  | +5                | Cynydd Sgôr Medraeth                         |
+| 16  | +5                | Cynydd Sgôr Gallu                         |
 | 17  | +6                | Acsiwn Ychwanegol (dau defnydd), Anorchfygol (tri defnydd) |
 | 18  | +6                | Nodwedd Archdeip Marsial                         |
-| 19  | +6                | Cynydd Sgôr Medraeth                         |
+| 19  | +6                | Cynydd Sgôr Gallu                         |
 | 20  | +6                | Ymosodiad Ychwanegol (3)                                  |
 |       |                   |                                                   |
 
@@ -130,7 +130,7 @@ Ar lefel 3, byddwch chi'n dewis archeteip rydych chi'n ymdrechu i'w efelychu yn 
 
 >  At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. Choose Champion, Battle Master, or Eldritch Knight, all detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
-### Cynydd Sgôr Medraeth (Ability Score Increase)
+### Cynydd Sgôr Gallu (Ability Score Increase)
 
 Pan rydych chi'n cyraedd lefel 4, ac eto ar lefel 6, 8, 12, 14, 16, a 19, gallwch gynyddu un sgôr gallu o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr gallu o'ch dewis gan 1. Gallwch chi' ddim cynyddu sgôr gallu uwch na 20 gan ddefnyddio'r nodwedd hon.
 

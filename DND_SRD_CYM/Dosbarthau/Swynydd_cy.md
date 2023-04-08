@@ -47,22 +47,22 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 | 1     | +2                | -              | Swyno, Tarddiad Swynydd        | 4                   | 2             | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2     | +2                | 2              | Ffynnonell Swyno               | 4                   | 3             | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3     | +2                | 3              | Arswyno                        | 4                   | 4             | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4     | +2                | 4              | Cynydd Sgôr Medraeth           | 5                   | 5             | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 4     | +2                | 4              | Cynydd Sgôr Gallu           | 5                   | 5             | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
 | 5     | +3                | 5              | -                              | 5                   | 6             | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
 | 6     | +3                | 6              | Nodwedd Tarddiad Swynydd       | 5                   | 7             | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
 | 7     | +3                | 7              | -                              | 5                   | 8             | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8     | +3                | 8              | Cynydd Sgôr Medraeth           | 5                   | 9             | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 8     | +3                | 8              | Cynydd Sgôr Gallu           | 5                   | 9             | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
 | 9     | +4                | 9              | -                              | 5                   | 10            | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
 | 10    | +4                | 10             | Arswyno                        | 6                   | 11            | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
 | 11    | +4                | 11             | -                              | 6                   | 12            | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12    | +4                | 12             | Cynydd Sgôr Medraeth           | 6                   | 12            | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12    | +4                | 12             | Cynydd Sgôr Gallu           | 6                   | 12            | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
 | 13    | +5                | 13             | -                              | 6                   | 13            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 14    | +5                | 14             | Nodwedd Tarddiad Swynydd       | 6                   | 13            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 15    | +5                | 15             | -                              | 6                   | 14            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16    | +5                | 16             | Cynydd Sgôr Medraeth           | 6                   | 14            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16    | +5                | 16             | Cynydd Sgôr Gallu           | 6                   | 14            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
 | 17    | +6                | 17             | Arswyno                        | 6                   | 15            | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
 | 18    | +6                | 18             | Nodwedd Tarddiad Swynydd       | 6                   | 15            | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19    | +6                | 19             | Cynydd Sgôr Medraeth           | 6                   | 15            | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 19    | +6                | 19             | Cynydd Sgôr Gallu           | 6                   | 15            | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20    | +6                | 20             | Adfer Swynol                   | 6                   | 15            | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 |       |                   |                |                                |                     |               |     |     |     |     |     |     |     |     |     |
 
@@ -255,7 +255,7 @@ I ddefnyddio'r nodwydd yma, rhaid i'r swyn fod yn analluog o dargedu mwy nag un 
 >  
 >  To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, *magic missile* and *scorching ray* aren't eligible, but *ray of frost* is.
 
-### Cynydd Sgôr Medraeth
+### Cynydd Sgôr Gallu
 
 Pan rydych chi'n cyraedd lefel 4, ac eto ar lefel 8, 12, 16, a 19, gallwch gynyddu un sgôr gallu o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr gallu o'ch dewis gan 1. Gallwch chi ddim cynyddu sgôr gallu uwch na 20 gan ddefnyddio'r nodwedd hon.
 

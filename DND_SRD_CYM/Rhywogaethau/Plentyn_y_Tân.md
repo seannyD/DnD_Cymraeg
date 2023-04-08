@@ -4,7 +4,7 @@
 
 Your draconic heritage manifests in a variety of traits you share with other dragonborn.
 
-***Cynydd Sgôr Medraeth***. Your Strength score increases by 2, and your Charisma score increases by 1.
+***Cynydd Sgôr Gallu***. Your Strength score increases by 2, and your Charisma score increases by 1.
 
 ***Oed***. Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
 

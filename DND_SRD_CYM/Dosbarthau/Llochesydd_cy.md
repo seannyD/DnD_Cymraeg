@@ -47,22 +47,22 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 | 1     | +2                | Noddydd Allfydol, Hud y Cyfamod | 2              | 2            | 1           | 1          | -                 |
 | 2     | +2                | Ymbilion                        | 2              | 3            | 2           | 1          | 2                 |
 | 3     | +2                | Nodwedd Cyfamod                 | 2              | 4            | 2           | 2          | 2                 |
-| 4     | +2                | Cynydd Sgôr Medraeth            | 3              | 5            | 2           | 2          | 2                 |
+| 4     | +2                | Cynydd Sgôr Gallu            | 3              | 5            | 2           | 2          | 2                 |
 | 5     | +3                | -                               | 3              | 6            | 2           | 3          | 3                 |
 | 6     | +3                | Nodwedd Noddydd                 | 3              | 7            | 2           | 3          | 3                 |
 | 7     | +3                | -                               | 3              | 8            | 2           | 4          | 4                 |
-| 8     | +3                | Cynydd Sgôr Medraeth            | 3              | 9            | 2           | 4          | 4                 |
+| 8     | +3                | Cynydd Sgôr Gallu            | 3              | 9            | 2           | 4          | 4                 |
 | 9     | +4                | -                               | 3              | 10           | 2           | 5          | 5                 |
 | 10    | +4                | Nodwedd Noddydd                 | 4              | 10           | 2           | 5          | 5                 |
 | 11    | +4                | Cyfrinach Cyfriniol (lefel 6)   | 4              | 11           | 3           | 5          | 5                 |
-| 12    | +4                | Cynydd Sgôr Medraeth            | 4              | 11           | 3           | 5          | 6                 |
+| 12    | +4                | Cynydd Sgôr Gallu            | 4              | 11           | 3           | 5          | 6                 |
 | 13    | +5                | Cyfrinach Cyfriniol (lefel 7)   | 4              | 12           | 3           | 5          | 6                 |
 | 14    | +5                | Nodwedd Noddydd                 | 4              | 12           | 3           | 5          | 6                 |
 | 15    | +5                | Cyfrinach Cyfriniol (level 8)   | 4              | 13           | 3           | 5          | 7                 |
-| 16    | +5                | Cynydd Sgôr Medraeth            | 4              | 13           | 3           | 5          | 7                 |
+| 16    | +5                | Cynydd Sgôr Gallu            | 4              | 13           | 3           | 5          | 7                 |
 | 17    | +6                | Cyfrinach Cyfriniol (level 9)   | 4              | 14           | 4           | 5          | 7                 |
 | 18    | +6                | -                               | 4              | 14           | 4           | 5          | 8                 |
-| 19    | +6                | Cynydd Sgôr Medraeth            | 4              | 15           | 4           | 5          | 8                 |
+| 19    | +6                | Cynydd Sgôr Gallu            | 4              | 15           | 4           | 5          | 8                 |
 | 20    | +6                | Celfydd Allfydol                | 4              | 15           | 4           | 5          | 8                 |
 |       |                   |                                 |                |              |             |            |                   |
 
@@ -199,7 +199,7 @@ Efallai y bydd eich Llyfr Cysgodion yn lyfr crand, ag ymyl euraid, wedi ei roi i
 
 >  ***Pact of the Tome***. Your Book of Shadows might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.
 
-### Cynydd Sgôr Medraeth
+### Cynydd Sgôr Gallu
 
 Pan rydych chi'n cyraedd lefel 4, ac eto ar lefel 8, 12, 16, a 19, gallwch gynyddu un sgôr gallu o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr gallu o'ch dewis gan 1. Gallwch chi ddim cynyddu sgôr gallu uwch na 20 gan ddefnyddio'r nodwedd hon.
 
@@ -444,7 +444,7 @@ Gan ddechrau ar lefel 1, pan fyddwch chi'n lleihau creadur gelyniaethus i 0 pwyn
 
 #### Tynged Tywyll (Dark One's Own Luck)
 
-Gan ddechrau ar lefel 6, gallwch alw ar eich noddydd i newid tynged o'ch plaid. Pan fyddwch yn gwneud cais medraeth neu cais arbed, gallwch ddefnyddio'r nodwedd hon i ychwanegu d10 at eich rhol. Gallwch wneud hynny ar ôl gweld y rhol gychwynnol ond cyn i unrhyw un o effeithiau'r rhol ddigwydd.
+Gan ddechrau ar lefel 6, gallwch alw ar eich noddydd i newid tynged o'ch plaid. Pan fyddwch yn gwneud cais gallu neu cais arbed, gallwch ddefnyddio'r nodwedd hon i ychwanegu d10 at eich rhol. Gallwch wneud hynny ar ôl gweld y rhol gychwynnol ond cyn i unrhyw un o effeithiau'r rhol ddigwydd.
 
 Unwaith y byddwch chi'n defnyddio'r nodwedd hon, ni allwch ei ddefnyddio eto nes i chi orffen saib byr neu hir.
 

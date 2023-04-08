@@ -4,7 +4,7 @@
 
 It's hard to make generalizations about humans, but your human character has these traits.
 
-***Cynydd Sgôr Medraeth***. Your ability scores each increase by 1.
+***Cynydd Sgôr Gallu***. Your ability scores each increase by 1.
 
 ***Oed***. Plentyn y Mais reach adulthood in their late teens and live less than a century.
 

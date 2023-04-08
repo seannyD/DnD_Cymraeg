@@ -4,7 +4,7 @@
 
 Your half-orc character has certain traits deriving from your orc ancestry.
 
-***Cynydd Sgôr Medraeth***. Your Strength score increases by 2, and your Constitution score increases by 1.
+***Cynydd Sgôr Gallu***. Your Strength score increases by 2, and your Constitution score increases by 1.
 
 ***Oed***. Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years.
 

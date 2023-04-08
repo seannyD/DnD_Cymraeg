@@ -46,22 +46,22 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 | 1     | +2              | Swyno, Adfer Hud       | 3                   | 2 | - | - | - | - | - | - | - | - |
 | 2     | +2              | Traddodiad Hud         | 3                   | 3 | - | - | - | - | - | - | - | - |
 | 3     | +2              | -                      | 3                   | 4 | 2 | - | - | - | - | - | - | - |
-| 4     | +2              | Cynydd Sgôr Medraeth   | 4                   | 4 | 3 | - | - | - | - | - | - | - |
+| 4     | +2              | Cynydd Sgôr Gallu   | 4                   | 4 | 3 | - | - | - | - | - | - | - |
 | 5     | +3              | -                      | 4                   | 4 | 3 | 2 | - | - | - | - | - | - |
 | 6     | +3              | Nodwedd Traddodiad Hud | 4                   | 4 | 3 | 3 | - | - | - | - | - | - |
 | 7     | +3              | -                      | 4                   | 4 | 3 | 3 | 1 | - | - | - | - | - |
-| 8     | +3              | Cynydd Sgôr Medraeth   | 4                   | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 8     | +3              | Cynydd Sgôr Gallu   | 4                   | 4 | 3 | 3 | 2 | - | - | - | - | - |
 | 9     | +4              | -                      | 4                   | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
 | 10    | +4              | Nodwedd Traddodiad Hud | 5                   | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
 | 11    | +4              | -                      | 5                   | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
-| 12    | +4              | Cynydd Sgôr Medraeth   | 5                   | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12    | +4              | Cynydd Sgôr Gallu   | 5                   | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
 | 13    | +5              | -                      | 5                   | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 14    | +5              | Nodwedd Traddodiad Hud | 5                   | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 15    | +5              | -                      | 5                   | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
-| 16    | +5              | Cynydd Sgôr Medraeth   | 5                   | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16    | +5              | Cynydd Sgôr Gallu   | 5                   | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
 | 17    | +6              | -                      | 5                   | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18    | +6              | Maestreolaeth Swyno    | 5                   | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19    | +6              | Cynydd Sgôr Medraeth   | 5                   | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 19    | +6              | Cynydd Sgôr Gallu   | 5                   | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20    | +6              | Swyn Llofnodol         | 5                   | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 |       |                 |                        |                     |   |   |   |   |   |   |   |   |   |
 
@@ -150,9 +150,9 @@ Mae eich dewis yn cynnig nodweddion ychwanegol ar level 2, 6, 10 ac 14.
 >  Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
 
-### Cynydd Sgôr Medraeth
+### Cynydd Sgôr Gallu
 
-Pan rydych chi'n cyraedd lefel 4, ac eto ar lefel 8, 12, 16, a 19, gallwch gynyddu un sgôr medraeth o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr medraeth o'ch dewis gan 1. Gallwch chi ddim cynyddu sgôr medraeth uwch na 20 gan ddefnyddio'r nodwedd hon.
+Pan rydych chi'n cyraedd lefel 4, ac eto ar lefel 8, 12, 16, a 19, gallwch gynyddu un sgôr gallu o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr gallu o'ch dewis gan 1. Gallwch chi ddim cynyddu sgôr gallu uwch na 20 gan ddefnyddio'r nodwedd hon.
 
 
 >  When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.

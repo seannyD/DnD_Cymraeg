@@ -4,7 +4,7 @@
 
 Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
 
-***Cynydd Sgôr Medraeth***. Your Constitution score increases by 2.
+***Cynydd Sgôr Gallu***. Your Constitution score increases by 2.
 
 ***Oed***. Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.
 
@@ -30,6 +30,6 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 
 As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
 
-***Cynydd Sgôr Medraeth***. Your Wisdom score increases by 1.
+***Cynydd Sgôr Gallu***. Your Wisdom score increases by 1.
 
 ***Dwarven Toughness***. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.

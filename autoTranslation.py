@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-# Abilities.md: Add skill translations in parentheses 
-# Make a 'hard translate' vs 'soft translate' option
-
 
 # Translate Treasure:
 # 	Translate names
@@ -10,7 +7,7 @@
 
 # Shade: anysbryd
 # Conjoure - arswyn
-# Ability: Medraeth
+# Ability: Gallu
 # Familiar: Cynhalydd
 # Bardic order = achen
 # Bardic circle: Urdd/ Radd / achen

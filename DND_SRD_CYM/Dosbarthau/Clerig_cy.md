@@ -49,22 +49,22 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 | 1   | +2                | Swyno, Maes Dwyfol                                             | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2   | +2                | Sianelu Dwyfol (1/saib), Nodwedd Maes Dwyfol                        | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3   | +2                | -                                                                       | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4   | +2                | Cynydd Sgôr Medraeth                                               | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 4   | +2                | Cynydd Sgôr Gallu                                               | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
 | 5   | +3                | Dinistrio'r Anfarwol (CR 1/2)                                                 | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
 | 6   | +3                | Sianelu Dwyfol (2/saib), Nodwedd Maes Dwyfol                        | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
 | 7   | +3                | -                                                                       | 4              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8   | +3                | Cynydd Sgôr Medraeth, Dinistrio'r Anfarwol (CR 1), Nodwedd Maes Dwyfol | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 8   | +3                | Cynydd Sgôr Gallu, Dinistrio'r Anfarwol (CR 1), Nodwedd Maes Dwyfol | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
 | 9   | +4                | -                                                                       | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
 | 10  | +4                | Cyfryngiad Dwyfol                                                    | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
 | 11  | +4                | Dinistrio'r Anfarwol (CR 2)                                                   | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12  | +4                | Cynydd Sgôr Medraeth                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12  | +4                | Cynydd Sgôr Gallu                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
 | 13  | +5                | -                                                                       | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 14  | +5                | Dinistrio'r Anfarwol (CR 3)                                                   | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 15  | +5                | -                                                                       | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16  | +5                | Cynydd Sgôr Medraeth                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16  | +5                | Cynydd Sgôr Gallu                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
 | 17  | +6                | Dinistrio'r Anfarwol (CR 4), Nodwedd Maes Dwyfol                            | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
 | 18  | +6                | Sianelu Dwyfol (3/saib)                                               | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19  | +6                | Cynydd Sgôr Medraeth                                               | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 19  | +6                | Cynydd Sgôr Gallu                                               | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20  | +6                | Gwellhad Cyfryngiad Dwyfol                                         | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 |     |                   |                                                                         |                |     |     |     |     |     |     |     |     |     |
 
@@ -164,7 +164,7 @@ Rhaid i greadur sydd wedi troi dreulio ei dro yn ceisio symud mor bell oddi wrth
 >  
 >  A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
-### Cynydd Sgôr Medraeth
+### Cynydd Sgôr Gallu
 
 Pan rydych chi'n cyraedd lefel 4, ac eto ar lefel 8, 12, 16, a 19, gallwch gynyddu un sgôr gallu o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr gallu o'ch dewis gan 1. Gallwch chi ddim cynyddu sgôr gallu uwch na 20 gan ddefnyddio'r nodwedd hon.
 

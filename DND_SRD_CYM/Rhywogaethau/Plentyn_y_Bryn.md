@@ -4,7 +4,7 @@
 
 Your halfling character has a number of traits in common with all other halflings.
 
-***Cynydd Sgôr Medraeth***. Your Dexterity score increases by 2.
+***Cynydd Sgôr Gallu***. Your Dexterity score increases by 2.
 
 ***Oed***. A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
 
@@ -28,6 +28,6 @@ As a lightfoot halfling, you can easily hide from notice, even using other peopl
 
 Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life.
 
-***Cynydd Sgôr Medraeth***. Your Charisma score increases by 1.
+***Cynydd Sgôr Gallu***. Your Charisma score increases by 1.
 
 ***Naturally Stealthy***. You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.

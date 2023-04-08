@@ -4,7 +4,7 @@
 
 Your gnome character has certain characteristics in common with all other gnomes.
 
-***Cynydd Sgôr Medraeth***. Your Intelligence score increases by 2.
+***Cynydd Sgôr Gallu***. Your Intelligence score increases by 2.
 
 ***Oed***. Gnôms mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
 
@@ -24,7 +24,7 @@ Your gnome character has certain characteristics in common with all other gnomes
 
 As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes.
 
-***Cynydd Sgôr Medraeth***. Your Constitution score increases by 1.
+***Cynydd Sgôr Gallu***. Your Constitution score increases by 1.
 
 ***Artificer's Lore***. Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
 

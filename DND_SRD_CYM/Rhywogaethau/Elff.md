@@ -4,7 +4,7 @@
 
 Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.
 
-***Cynydd Sgôr Medraeth***. Your Dexterity score increases by 2.
+***Cynydd Sgôr Gallu***. Your Dexterity score increases by 2.
 
 ***Oed***. Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
 
@@ -30,7 +30,7 @@ After resting in this way, you gain the same benefit that a human does from 8 ho
 
 As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other races.
 
-***Cynydd Sgôr Medraeth***. Your Intelligence score increases by 1.
+***Cynydd Sgôr Gallu***. Your Intelligence score increases by 1.
 
 ***Elff Weapon Training***. You have proficiency with the longsword, shortsword, shortbow, and longbow.
 

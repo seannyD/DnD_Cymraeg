@@ -43,22 +43,22 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 | 1     | +2                | Derwyddeg, Swyno                        | 2                    | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 2     | +2                | Ffurf Wyllt, Achen Derwyddol            | 2                    | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3     | +2                | -                                       | 2                    | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4     | +2                | Ffurf Wyllt gwell, Cynydd Sgôr Medraeth | 3                    | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 4     | +2                | Ffurf Wyllt gwell, Cynydd Sgôr Gallu | 3                    | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
 | 5     | +3                | -                                       | 3                    | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
 | 6     | +3                | Nodwedd Achen Derwyddol                 | 3                    | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
 | 7     | +3                | -                                       | 3                    | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8     | +3                | Ffurf Wyllt gwell, Cynydd Sgôr Medraeth | 3                    | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 8     | +3                | Ffurf Wyllt gwell, Cynydd Sgôr Gallu | 3                    | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
 | 9     | +4                | -                                       | 3                    | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
 | 10    | +4                | Nodwedd Achen Derwyddol                 | 4                    | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
 | 11    | +4                | -                                       | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12    | +4                | Cynydd Sgôr Medraeth                    | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12    | +4                | Cynydd Sgôr Gallu                    | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
 | 13    | +5                | -                                       | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 14    | +5                | Nodwedd Achen Derwyddol                 | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 15    | +5                | -                                       | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16    | +5                | Cynydd Sgôr Medraeth                    | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16    | +5                | Cynydd Sgôr Gallu                    | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
 | 17    | +6                | -                                       | 4                    | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
 | 18    | +6                | Corff Difuddiog, Bwystswyno             | 4                    | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19    | +6                | Cynydd Sgôr Medraeth                    | 4                    | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 19    | +6                | Cynydd Sgôr Gallu                    | 4                    | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20    | +6                | Archderwydd                             | 4                    | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 |       |                   |                                         |                      |     |     |     |     |     |     |     |     |     |
 
@@ -170,7 +170,7 @@ Ar lefel 2, gallwch chi dewis uniaethu â achen o dderwyddon: mae Urdd y Tir wed
 
 >  At 2nd level, you choose to identify (canfod) with a circle of druids: the Circle of the Land or the Circle of the Moon, both detailed at the end of the class description. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
-### Cynydd Sgôr Medraeth
+### Cynydd Sgôr Gallu
 
 Pan rydych chi'n cyraedd lefel 4, ac eto ar lefel 8, 12, 16, a 19, gallwch gynyddu un sgôr gallu o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr gallu o'ch dewis gan 1. Gallwch chi ddim cynyddu sgôr gallu uwch na 20 gan ddefnyddio'r nodwedd hon.
 

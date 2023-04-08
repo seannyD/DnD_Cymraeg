@@ -10,8 +10,4 @@
 
 **Parhad:** 1 awr
 
-### Cyfieithiad Awtomatig
-
-Am y swyn, rydych chi'n gweld creaduriaid a gwrthrychau anweledig (anweledig) fel petaen nhw'n weladwy, a gallwch chi weld i mewn i'r Plane Ethereal. Mae creaduriaid a gwrthrychau ethereal yn ymddangos yn ysbrydion ac yn dryloyw.
-
->  For the duration, you see invisible (anweledig) creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
+For the duration, you see invisible (anweledig) creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.

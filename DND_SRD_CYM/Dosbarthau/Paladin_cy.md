@@ -48,22 +48,22 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 | 1   | +2                | Synnwyr Dwyfol, Arddodi Dwylo                 | -   | -   | -   | -   | -   |
 | 2   | +2                | Arddull Ymladd, Swyno, Erfid Dwyfol | 2   | -   | -   | -   | -   |
 | 3   | +2                | Heini Dwyfol, Llw Sanctaidd                 | 3   | -   | -   | -   | -   |
-| 4   | +2                | Cynydd Sgôr Medraeth                  | 3   | -   | -   | -   | -   |
+| 4   | +2                | Cynydd Sgôr Gallu                  | 3   | -   | -   | -   | -   |
 | 5   | +3                | Ymosodiad Ychwanegol                               | 4   | 2   | -   | -   | -   |
 | 6   | +3                | Awra Amddiffynnol                        | 4   | 2   | -   | -   | -   |
 | 7   | +3                | Nodwedd Llw Sanctaidd                        | 4   | 3   | -   | -   | -   |
-| 8   | +3                | Cynydd Sgôr Medraeth                  | 4   | 3   | -   | -   | -   |
+| 8   | +3                | Cynydd Sgôr Gallu                  | 4   | 3   | -   | -   | -   |
 | 9   | +4                | -                                          | 4   | 3   | 2   | -   | -   |
 | 10  | +4                | Awra Calondid                           | 4   | 3   | 2   | -   | -   |
 | 11  | +4                | Gwelliant i Erfid Dwyfol                      | 4   | 3   | 3   | -   | -   |
-| 12  | +4                | Cynydd Sgôr Medraeth                  | 4   | 3   | 3   | -   | -   |
+| 12  | +4                | Cynydd Sgôr Gallu                  | 4   | 3   | 3   | -   | -   |
 | 13  | +5                | -                                          | 4   | 3   | 3   | 1   | -   |
 | 14  | +5                | Glanhad                            | 4   | 3   | 3   | 1   | -   |
 | 15  | +5                | Nodwedd Llw Sanctaidd                        | 4   | 3   | 3   | 2   | -   |
-| 16  | +5                | Cynydd Sgôr Medraeth                  | 4   | 3   | 3   | 2   | -   |
+| 16  | +5                | Cynydd Sgôr Gallu                  | 4   | 3   | 3   | 2   | -   |
 | 17  | +6                | -                                          | 4   | 3   | 3   | 3   | 1   |
 | 18  | +6                | Gwelliant i Awrau                          | 4   | 3   | 3   | 3   | 1   |
-| 19  | +6                | Cynydd Sgôr Medraeth                  | 4   | 3   | 3   | 3   | 2   |
+| 19  | +6                | Cynydd Sgôr Gallu                  | 4   | 3   | 3   | 3   | 2   |
 | 20  | +6                | Nodwedd Llw Sanctaidd                        | 4   | 3   | 3   | 3   | 2   |
 |     |                   |                                            |     |     |     |     |     |
 
@@ -216,9 +216,9 @@ Mae rhai effeithiau Sianelu Dwyfol yn gofyn am cais achyb. Pan fyddwch chi'n def
 >  
 >  Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.
 
-### Cynydd Sgôr Medraeth
+### Cynydd Sgôr Gallu
 
-Pan gyrhaeddwch lefel 4, ac eto ar lefel 8, 12, 16, a 19, gallwch gynyddu un sgôr medraeth o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr gallu o'ch dewis gan 1. Fel arfer, gallwch chi ddim cynyddu sgôr gallu uwch na 20 gan ddefnyddio'r nodwedd hon.
+Pan gyrhaeddwch lefel 4, ac eto ar lefel 8, 12, 16, a 19, gallwch gynyddu un sgôr gallu o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr gallu o'ch dewis gan 1. Fel arfer, gallwch chi ddim cynyddu sgôr gallu uwch na 20 gan ddefnyddio'r nodwedd hon.
 
 >  When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 

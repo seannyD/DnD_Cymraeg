@@ -46,22 +46,22 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 | 1st   | +2                | 1d4          | -         | -                  | Amddifyn heb Armwr, Crefft Ymladd                  |
 | 2nd   | +2                | 1d4          | 2         | +10 ft.            | Ki, Symudiad heb Armwr                           |
 | 3rd   | +2                | 1d4          | 3         | +10 ft.            | Traddodiad Myfyrydd, Allwyrio Saethau            |
-| 4th   | +2                | 1d4          | 4         | +10 ft.            | Cynydd Sgôr Medraeth, Syrthio Araf             |
+| 4th   | +2                | 1d4          | 4         | +10 ft.            | Cynydd Sgôr Gallu, Syrthio Araf             |
 | 5th   | +3                | 1d6          | 5         | +10 ft.            | Ymosodiad Ychwanegol, Ergyd Syfrdanol            |
 | 6th   | +3                | 1d6          | 6         | +15 ft.            | Ergyd Ki, Nodwedd Traddodiad Myfyrydd |
 | 7th   | +3                | 1d6          | 7         | +15 ft.            | Dihangu, Tawel Meddwl                       |
-| 8th   | +3                | 1d6          | 8         | +15 ft.            | Cynydd Sgôr Medraeth                        |
+| 8th   | +3                | 1d6          | 8         | +15 ft.            | Cynydd Sgôr Gallu                        |
 | 9th   | +4                | 1d6          | 9         | +15 ft.            | Cynydd Symudiad heb Armwr                   |
 | 10th  | +4                | 1d6          | 10        | +20 ft.            | Corff Pur                                   |
 | 11th  | +4                | 1d8          | 11        | +20 ft.            | Nodwedd Traddodiad Myfyrydd                       |
-| 12th  | +4                | 1d8          | 12        | +20 ft.            | Cynydd Sgôr Medraeth                        |
+| 12th  | +4                | 1d8          | 12        | +20 ft.            | Cynydd Sgôr Gallu                        |
 | 13th  | +5                | 1d8          | 13        | +20 ft.            | Tafod yr Haul a'r Lleuad                       |
 | 14th  | +5                | 1d8          | 14        | +25 ft.            | Enaid Prifem                                     |
 | 15th  | +5                | 1d8          | 15        | +25 ft.            | Corff Bythol                                    |
-| 16th  | +5                | 1d8          | 16        | +25 ft.            | Cynydd Sgôr Medraeth                        |
+| 16th  | +5                | 1d8          | 16        | +25 ft.            | Cynydd Sgôr Gallu                        |
 | 17th  | +6                | 1d10         | 17        | +25 ft.            | Nodwedd Traddodiad Myfyrydd                       |
 | 18th  | +6                | 1d10         | 18        | +30 ft.            | Corff Gwag                                       |
-| 19th  | +6                | 1d10         | 19        | +30 ft.            | Cynydd Sgôr Medraeth                        |
+| 19th  | +6                | 1d10         | 19        | +30 ft.            | Cynydd Sgôr Gallu                        |
 | 20th  | +6                | 1d10         | 20        | +30 ft.            | Hunan Perffaith                                     |
 |       |                   |              |           |                    |                                                  |
 
@@ -160,7 +160,7 @@ Os byddwch chi'n lleihau'r difrod i 0, gallwch ddal y taflegryn os yw'n ddigon b
 >  
 >  If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.
 
-### Cynydd Sgôr Medraeth
+### Cynydd Sgôr Gallu
 
 Pan rydych chi'n cyraedd lefel 4, ac eto ar lefel 8, 12, 16, a 19, gallwch gynyddu un sgôr gallu o'ch dewis gan 2, neu gallwch gynyddu dwy sgôr gallu o'ch dewis gan 1. Gallwch chi ddim cynyddu sgôr gallu uwch na 20 gan ddefnyddio'r nodwedd hon.
 
