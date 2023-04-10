@@ -20,7 +20,7 @@ if False:
 	quit()
 
 # List of files we should not overwrite
-completedFiles = ["Anturio.md"]
+completedFiles = ["Anturio.md","Galluoedd.md"]
 
 # Bite, claw, slam
 
