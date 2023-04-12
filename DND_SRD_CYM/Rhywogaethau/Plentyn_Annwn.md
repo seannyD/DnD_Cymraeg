@@ -1,23 +1,21 @@
-# Plentyn Annwn
+# Plentyn Annwn (Half-Elf)
 
-### Plentyn Annwn Traits
+### Nodweddion Plentyn Annwn
 
-Your half-elf character has some qualities in common with elves and some that are unique to half-elves.
+Mae gan eich cymeriad rai rhinweddau sy'n gyffredin â elffiaid a rhai sy'n unigryw i Blant Annwn.
 
-***Cynydd Sgôr Gallu***. Your Charisma score increases by 2, and two other ability scores of your choice increase by 1.
+***Cynydd Sgôr Gallu***. Mae eich sgôr Presynoldeb yn cynyddu gan 2, ac mae dau sgôr gallu arall o'ch dewis yn cynyddu 1.
 
-***Oed***. Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years.
+***Oed***. Mae hanner gorachod yn aeddfedu ar yr un gyfradd ag y mae bodau dynol ac yn cyrraedd oedolaeth tua 20 oed. Maent yn byw'n llawer hirach na bodau dynol, fodd bynnag, yn aml yn fwy na 180 mlynedd.
 
-***Aliniant***. Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and sometimes prove unreliable, or at least unpredictable.
+***Maint***. Mae Plentyn Annwn tua'r un maint â bodau dynol, yn amrywio o 5 i 6 troedfedd o daldra. Mae eich maint yn Ganolig.
 
-***Maint***. Half-elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.
+***Cyflymder***. 30 troedfedd yw eich cyflymdra sylfaneol.
 
-***Cyflymder***. Your base walking speed is 30 feet.
+***Tywyllweld***. Diolch i'ch llinach elffaidd, mae gennych olwg well mewn amodau tywyll a golau gwan. Fe welwch mewn golau gwan o fewn 60 troedfedd i chi fel pe bai'n olau llachar, ac mewn tywyllwch fel pe bai'n olau gwan. Ni allwch ganfod lliw mewn tywyllwch, dim ond arlliwiau o lwyd.
 
-***Tywyllweld***. Thanks to your elf blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+***Hiliogaeth Annwn***. Mae gennych fantais ar caisiadau achub yn erbyn cael eich swyno, ac ni all hud eich rhoi i gysgu.
 
-***Fey Ancestry***. You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+***Amlochredd Sgiliau***. Rydych chi'n ennill hyfedredd mewn dwy sgil o'ch dewis.
 
-***Skill Versatility***. You gain proficiency in two skills of your choice.
-
-***Ieithoedd***. You can speak, read, and write Common, Elvish, and one extra language of your choice.
+***Ieithoedd***. Gallwch siarad, darllen ac ysgrifennu y Cyfiaith, Elffaidd, ac un iaith ychwanegol o'ch dewis.

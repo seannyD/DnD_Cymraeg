@@ -1,39 +1,38 @@
 # Gnôm
 
-### Gnôm Traits
+### Nodweddion Gnôm
 
-Your gnome character has certain characteristics in common with all other gnomes.
+Mae gan eich cymeriad rai nodweddion sy'n gyffredin â phob gnôm arall.
 
-***Cynydd Sgôr Gallu***. Your Intelligence score increases by 2.
+***Cynydd Sgôr Gallu***. Mae eich sgôr Deallusrwydd yn cynyddu gan 2.
 
-***Oed***. Gnôms mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
+***Oed***. Mae gnôms yn aeddfedu ar yr un gyfradd ag y mae bodau dynol, a disgwylir i'r mwyafrif setlo i fywyd oedolyn erbyn tua 40 oed. Gallant fyw rhwng 350 a bron i 500 mlynedd.
 
-***Aliniant***. Gnôms are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnôms are good-hearted, and even the tricksters among them are more playful than vicious.
+***Maint***. Mae gnôms rhwng 3 a 4 troedfedd o daldra a thua 40 pwys ar gyfartaledd. Mae eich maint yn fach.
 
-***Maint***. Gnôms are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+***Cyflymder***. 25 troedfedd yw eich cyflymdra sylfaneol.
 
-***Cyflymder***. Your base walking speed is 25 feet.
+***Tywyllweld***. Yn gyfarwydd â bywyd o dan y ddaear, mae gennych olwg well mewn amodau tywyll a gwan. Fe welwch mewn golau gwan o fewn 60 troedfedd i chi fel pe bai'n olau llachar, ac mewn tywyllwch fel pe bai'n olau gwan. Ni allwch ganfod lliw mewn tywyllwch, dim ond arlliwiau o lwyd.
 
-***Tywyllweld***. Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+***Cyfrwystra Gnômaidd***. Mae gennych fantais ar bob cais achub Deallusrwydd, Doethineb, a Presynoldeb yn erbyn effeithiau hud.
 
-***Gnôm Cunning***. You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+***Ieithoedd***. Gallwch siarad, darllen, ac ysgrifennu y Cyfiaith a Gnômeg. Mae'r iaith Gnômeg, sy'n defnyddio'r sgript y Mynydd, yn enwog am ei thraethodau technegol a'i chatalogau o wybodaeth am fyd natur.
 
-***Ieithoedd***. You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
 
-## Rock Gnôm
+## Gnôm y Craig
 
-As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes.
+Fel Gnôm y Craig, mae gennych ddyfeisgarwch naturiol a chaledwch y tu hwnt i gnomau eraill.
 
-***Cynydd Sgôr Gallu***. Your Constitution score increases by 1.
+***Cynydd Sgôr Gallu***. Mae eich sgôr Cyfansoddiad yn cynyddu gan 1.
 
-***Artificer's Lore***. Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
+***Dysg y Celfyddydd***. Pryd bynnag y gwnewch cais Deallusrwydd (Hanes) sy'n ymwneud ag eitemau hud, gwrthrychau alcemegol, neu ddyfeisiau technolegol, gallwch ychwanegu dwywaith eich bonws hyfedredd, yn lle unrhyw fonws hyfedredd rydych chi'n ei gymhwyso fel arfer.
 
-***Tinker***. You have proficiency with artisan's tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
+***Tincio***. Mae gennych hyfedredd gydag offer crefftwr (offer tincer). Gan ddefnyddio'r offer hynny, gallwch dreulio 1 awr a 10 gp o ddeunyddiau i adeiladu dyfais clocwaith Pitw (AC 5, 1 hp). Mae'r ddyfais yn peidio â gweithredu ar ôl 24 awr (oni bai eich bod yn treulio 1 awr yn ei thrwsio i gadw'r ddyfais i weithio), neu pan fyddwch chi'n defnyddio'ch acsiwn i'w datgymalu; bryd hynny, gallwch adennill y deunyddiau a ddefnyddiwyd i'w greu. Gallwch gael hyd at dri dyfais o'r fath yn weithredol ar y tro.
 
-When you create a device, choose one of the following options:
+Pan fyddwch chi'n creu dyfais, dewiswch un o'r opsiynau canlynol:
 
-***Clockwork Toy***. This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.
+***Tegan Clocwaith***. Mae'r tegan hwn yn anifail clocwaith, anghenfil, neu berson, fel broga, llygoden, aderyn, draig, neu filwr. Pan gaiff ei osod ar y llawr, mae'r tegan yn symud 5 troedfedd ar draws y ddaear ar bob un o'ch troadau mewn cyfeiriad ar hap. Mae'n gwneud synau sy'n briodol i'r creadur y mae'n ei gynrychioli.
 
-***Fire Starter***. The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
+***Cychwynnwr Tân***. Mae'r ddyfais yn cynhyrchu fflam fach, y gallwch ei defnyddio i gynnau cannwyll, tortsh, neu dân gwersyll. Mae defnyddio'r ddyfais yn gofyn am eich acsiwn.
 
-***Music Box***. When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.
+***Blwch Cerddoriaeth***. Pan gaiff ei agor, mae'r blwch cerddoriaeth hwn yn chwarae cân sengl ar uchder cymedrol. Mae'r blwch yn stopio chwarae pan fydd yn cyrraedd diwedd y gân neu pan fydd ar gau.

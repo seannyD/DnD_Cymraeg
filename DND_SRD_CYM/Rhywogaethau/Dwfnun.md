@@ -1,23 +1,21 @@
-# Dwfnun
+# Dwfnun (Tiefling)
 
-### Dwfnun Traits
+### Nodweddion Dwfnun
 
-Dwfnuns share certain racial traits as a result of their infernal descent.
+Mae dwfnun yn rhannu rhai nodweddion hiliol o ganlyniad i'w disgyniad ufferaidd.
 
-***Cynydd Sgôr Gallu***. Your Intelligence score increases by 1, and your Charisma score increases by 2.
+***Cynydd Sgôr Gallu***. Mae eich sgôr Deallusrwydd yn cynyddu gan 1, a'ch sgôr Presenoldeb yn cynyddu gan 2.
 
-***Oed***. Dwfnuns mature at the same rate as humans but live a few years longer.
+***Oed***. Mae dwfnun yn aeddfedu ar yr un gyfradd â Plant y Mai ond yn byw ychydig flynyddoedd yn hirach.
 
-***Aliniant***. Dwfnuns might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment.
+***Maint***. Mae Dwfnun tu'ar un maint a Plant y Mai. Canolig yw eich maint.
 
-***Maint***. Dwfnuns are about the same size and build as humans. Your size is Medium.
+***Cyflymder***. 30 troedfedd yw eich cyflymdra sylfaneol.
 
-***Cyflymder***. Your base walking speed is 30 feet.
+***Tywyllweld***. Achos o'ch treftadaeth annaearol, mae gennych olwg well mewn amodau tywyll a gwan. Fe welwch mewn golau gwan o fewn 60 troedfedd i chi fel pe bai'n olau llachar, ac mewn tywyllwch fel pe bai'n olau gwan. Ni allwch ganfod lliw mewn tywyllwch, dim ond arlliwiau o lwyd.
 
-***Tywyllweld***. Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+***Hellish Resistance***. Mae gennych chi wrthiant i difrod tân.
 
-***Hellish Resistance***. You have resistance to fire damage.
+***Infernal Legacy***. Rydych chi'n gwybod y swyngyfaredd *rhyfeddod* (*thaumaturgy*). Pan gyrhaeddwch y 3ydd lefel, gallwch chi llunio'r swyn *Dwrdiad Uffernol* fel swyn ail lefel unwaith gyda'r nodwedd hon ac adennill y gallu i wneud hynny pan fyddwch chi'n gorffen gorffwys hir. Pan gyrhaeddwch y 5ed lefel, gallwch chi llunio'r swyn *tywyllwch* unwaith gyda'r nodwedd hon ac adennill y gallu i wneud hynny pan fyddwch chi'n gorffen gorffwys hir. Presynoldeb yw eich gallu swyno ar gyfer y swynau hyn.
 
-***Infernal Legacy***. You know the *thaumaturgy* cantrip. When you reach 3rd level, you can cast the *hellish rebuke* spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the *darkness* spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
-
-***Ieithoedd***. You can speak, read, and write Common and Infernal.
+***Ieithoedd***. Gallwch siarad, darllen, ac ysgrifennu Cyfiaith ac Ufferaidd.

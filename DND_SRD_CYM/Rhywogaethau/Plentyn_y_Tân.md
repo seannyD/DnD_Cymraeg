@@ -1,43 +1,41 @@
-# Plentyn y Tân
+# Plentyn y Tân (Dragonborn)
 
-### Plentyn y Tân Traits
+### Nodweddion Plentyn y Tân
 
-Your draconic heritage manifests in a variety of traits you share with other dragonborn.
+Mae eich treftadaeth draigaidd yn amlygu ei hun mewn amrywiaeth o nodweddion rydych chi'n eu rhannu ag Plant y Tân eraill.
 
-***Cynydd Sgôr Gallu***. Your Strength score increases by 2, and your Charisma score increases by 1.
+***Cynydd Sgôr Gallu***. Mae eich sgôr Cryfder yn cynyddu gan 2, ac mae eich sgôr Presynoldeb yn cynyddu gan 1.
 
-***Oed***. Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.
+***Oed***. Mae Plant y Tân yn tyfu'n gyflym. Maent yn cerdded oriau ar ôl deor, yn cyrraedd maint a datblygiad plentyn dynol 10 oed erbyn 3 oed, ac yn cyrraedd oedolaeth erbyn 15. Maent yn byw i fod tua 80 oed.
 
-***Aliniant***. Plentyn y Tân tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil. Most dragonborn are good, but those who side with evil can be terrible villains.
+***Maint***. Mae Plant y Tân yn dalach ac yn drymach na bodau dynol, yn sefyll ymhell dros 6 troedfedd o daldra a bron i 250 pwys ar gyfartaledd. Mae eich maint yn Ganolig.
 
-***Maint***. Plentyn y Tân are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
+***Cyflymder***. 30 troedfedd yw eich cyflymdra sylfaneol.
 
-***Cyflymder***. Your base walking speed is 30 feet.
+**Tabl- Hil y Ddraig**
 
-**Table- Draconic Ancestry**
-
-| Dragon | Damage Type | Breath Weapon                |
+| Draig  | Difrod      | Arf Anadl                    |
 |--------|-------------|------------------------------|
-| Black  | Acid        | 5 by 30 ft. line (Dex. save) |
-| Blue   | Lightning   | 5 by 30 ft. line (Dex. save) |
-| Brass  | Fire        | 5 by 30 ft. line (Dex. save) |
-| Bronze | Lightning   | 5 by 30 ft. line (Dex. save) |
-| Copper | Acid        | 5 by 30 ft. line (Dex. save) |
-| Gold   | Fire        | 15 ft. cone (Dex. save)      |
-| Green  | Poison      | 15 ft. cone (Con. save)      |
-| Red    | Fire        | 15 ft. cone (Dex. save)      |
-| Silver | Cold        | 15 ft. cone (Con. save)      |
-| White  | Cold        | 15 ft. cone (Con. save)      |
+| Du     | Asid        | 5 x 30 tr. line (achub Chw.) |
+| Glass  | Mellt       | 5 x 30 tr. line (achub Chw.) |
+| Pres   | Tân         | 5 x 30 tr. line (achub Chw.) |
+| Efydd  | Mellt       | 5 x 30 tr. line (achub Chw.) |
+| Copr   | Asid        | 5 x 30 tr. line (achub Chw.) |
+| Aur    | Tân         | 15 ft. cone (achub Chw.)     |
+| Gwyrdd | Gwenwyn     | 15 ft. cone (achub Cyf.)     |
+| Coch   | Tân         | 15 ft. cone (achub Chw.)     |
+| Arian  | Oer         | 15 ft. cone (achub Cyf.)     |
+| Gwyn   | Oer         | 15 ft. cone (achub Cyf.)     |
 |        |             |                              |
 
-***Draconic Ancestry***. You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
+***Hil y Ddraig***. Mae gennych chi achau draigaidd. Dewiswch un math o ddraig o'r tabl Hil y Ddraig. Mae eich arf anadl a'ch gwrthiant i ddifrod yn cael eu pennu gan y math o ddraig, fel y dangosir yn y tabl.
 
-***Breath Weapon***. You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.
+***Arf Anadl***. Gallwch ddefnyddio'ch gweithred i anadlu allan egni dinistriol. Mae eich llinach ddraig yn pennu maint, siâp, a math difrod yr allanadlu.
 
-When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.
+Pan fyddwch chi'n defnyddio'ch arf anadl, rhaid i bob creadur yn ardal yr allanadlu wneud cais achub, y mae'r math ohono'n cael ei bennu gan eich hynafiaeth. Mae'r DC ar gyfer y tafliad arbed hwn yn hafal i 8 + eich addasydd Cyfansoddiad + eich bonws hyfedredd. Mae creadur yn cymryd 2d6 o ddifrod ar cais a fethwyd, a hanner cymaint o ddifrod ar arbediad llwyddiannus. Mae'r difrod yn cynyddu i 3d6 ar 6ed lefel, 4d6 ar lefel 11eg, a 5d6 ar lefel 16eg.
 
-After you use your breath weapon, you can't use it again until you complete a short or long rest.
+Ar ôl i chi ddefnyddio'ch arf anadl, ni allwch ei ddefnyddio eto nes i chi gwblhau saib byr neu hir.
 
-***Damage Resistance***. You have resistance to the damage type associated with your draconic ancestry.
+***Gwrthiant i Ddifrod***. Mae gennych gwrthiant i'r math o ddifrod sy'n gysylltiedig â'ch llinach draigaidd.
 
-***Ieithoedd***. You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.
+***Ieithoedd***. Gallwch siarad, darllen, ac ysgrifennu y Cyfiaith a Draigiaith. Credir bod Draigiaith yn un o'r ieithoedd hynaf ac fe'i defnyddir yn aml wrth astudio hud. Mae'r iaith yn swnio'n llym i'r rhan fwyaf o greaduriaid eraill ac yn cynnwys nifer o gytseiniaid caled a sibilyddion.

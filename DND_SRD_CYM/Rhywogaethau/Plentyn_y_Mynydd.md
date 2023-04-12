@@ -1,35 +1,33 @@
-# Plentyn y Mynydd
+# Plentyn y Mynydd (Dwarf)
 
-### Plentyn y Mynydd Traits
+### Nodweddion Plentyn y Mynydd
 
 Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
 
-***Cynydd Sgôr Gallu***. Your Constitution score increases by 2.
+***Cynydd Sgôr Gallu***. Mae eich sgôr Cyfansoddiad yn cynyddu gan 2.
 
-***Oed***. Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.
+***Oed***. Mae Plant y Mynydd yn aeddfedu ar yr un gyfradd â bodau dynol, ond maen nhw'n cael eu hystyried yn ifanc nes eu bod yn cyrraedd 50 oed. Ar gyfartaledd, maen nhw'n byw tua 350 o flynyddoedd.
 
-***Aliniant***. Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.
+***Maint***. Mae Plentyn y Mynydd yn sefyll rhwng 4 a 5 troedfedd o daldra a thua 150 pwys ar gyfartaledd. Mae eich maint yn Ganolig.
 
-***Maint***. Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
+***Cyflymder***. 25 troedfedd yw eich cyflymdra sylfaneol. Nid yw eich cyflymdra yn cael ei effeithio gan wisgo arfwisg trwm.
 
-***Cyflymder***. Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
+***Tywyllweld***. Yn gyfarwydd â bywyd o dan y ddaear, mae gennych olwg well mewn amodau tywyll a golau gwan. Fe welwch mewn golau gwan o fewn 60 troedfedd i chi fel pe bai'n olau llachar, ac mewn tywyllwch fel pe bai'n olau gwan. Ni allwch ganfod lliw mewn tywyllwch, dim ond arlliwiau o lwyd.
 
-***Tywyllweld***. Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+***Dwarven Resilience***. Mae gennych fantais ar cais achub yn erbyn gwenwyn, ac mae gennych wrthwynebiad yn erbyn difrod gwenwyn.
 
-***Dwarven Resilience***. You have advantage on saving throws against poison, and you have resistance against poison damage.
+***Hyfforddiant Brwydro***. Mae gennych hyfedredd gyda'r bwyell rhyfel, y fwyell law, y morthwyl ysgafn, a'r morthwyl rhyfel.
 
-***Dwarven Combat Training***. You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
+***Hyfedredd Offer***. Byddwch yn dod yn hyfedr gydag offer y crefftwr o'ch dewis: offer gof, offer bragwr, neu offer saer maen.
 
-***Tool Proficiency***. You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.
+***Carregwybod***. Pryd bynnag y byddwch yn gwneud gwiriad Deallusrwydd (Hanes) sy'n ymwneud â tharddiad gwaith carreg, fe'ch ystyrir yn hyddysg yn y sgil Hanes ac ychwanegu dwbl eich bonws hyfedredd at y siec, yn lle eich bonws hyfedredd arferol.
 
-***Stonecunning***. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+***Ieithoedd***. Gallwch siarad, darllen, ac ysgrifennu y Cyfiaith ac iaith Plant y Mynydd. Mae iaith Plant y Mynydd yn llawn cytseiniaid caled a seiniau garw, ac mae'r nodweddion hynny'n gorlifo i ba bynnag iaith arall y gallai Plentyn y Mynydd ei siarad.
 
-***Ieithoedd***. You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
+## Plentyn y Cwm
 
-## Hill Plentyn y Mynydd
+Fel corrach bryn, mae gennych synhwyrau brwd, greddf dwfn, a gwydnwch rhyfeddol.
 
-As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
+***Cynydd Sgôr Gallu***. Mae eich sgôr Doethder yn cynyddu gan 1.
 
-***Cynydd Sgôr Gallu***. Your Wisdom score increases by 1.
-
-***Dwarven Toughness***. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+***Caledwch***. Mae uchafswm eich pwyntiau heini yn cynyddu gan 1, ac mae'n cynyddu gan 1 bob tro y byddwch chi'n ennill lefel.

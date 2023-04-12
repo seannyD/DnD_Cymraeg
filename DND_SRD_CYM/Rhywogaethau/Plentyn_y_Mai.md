@@ -1,17 +1,15 @@
-# Plentyn y Mai
+# Plentyn y Mai (Human)
 
-### Plentyn y Mai Traits
+### Nodweddion Plentyn y Mai
 
-It's hard to make generalizations about humans, but your human character has these traits.
+Mae'n anodd gwneud cyffredinoliadau am fodau dynol, ond mae gan eich cymeriad dynol y nodweddion hyn.
 
-***Cynydd Sgôr Gallu***. Your ability scores each increase by 1.
+***Cynydd Sgôr Gallu***. Mae pob sgôr gallu yn cynyddu gan 1.
 
-***Oed***. Plentyn y Mais reach adulthood in their late teens and live less than a century.
+***Oed***. Mae Plentyn y Mai yn cyrraedd oedolaeth yn eu harddegau hwyr ac yn byw llai na chanrif.
 
-***Aliniant***. Plentyn y Mais tend toward no particular alignment. The best and the worst are found among them.
+***Maint***. Mae Plentyn y Mai yn amrywio'n fawr o ran uchder ac adeiladwaith, o prin 5 troedfedd i ymhell dros 6 troedfedd o daldra. Waeth beth fo'ch safle yn yr ystod honno, mae eich maint yn Ganolig.
 
-***Maint***. Plentyn y Mais vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+***Cyflymder***. 30 troedfedd yw eich cyflymdra sylfaneol.
 
-***Cyflymder***. Your base walking speed is 30 feet.
-
-***Ieithoedd***. You can speak, read, and write Common and one extra language of your choice. Plentyn y Mais typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+***Ieithoedd***. Gallwch siarad, darllen ac ysgrifennu y Cyfiaith ac un iaith ychwanegol o'ch dewis. Mae Plentyn y Mai fel arfer yn dysgu ieithoedd pobl eraill y maent yn ymwneud â nhw, gan gynnwys tafodieithoedd aneglur. Maent yn hoff o gymysgu eu lleferydd â geiriau a fenthycwyd o dafodau eraill: melltithion Orcaidd, ymadroddion cerddorol Elffaidd, ymadroddion milwrol Plant y Mynydd, ac ati.

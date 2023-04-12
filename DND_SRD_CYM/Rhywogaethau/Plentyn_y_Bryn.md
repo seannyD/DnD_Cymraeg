@@ -1,33 +1,31 @@
-# Plentyn y Bryn
+# Plentyn y Bryn (Halfling)
 
-### Plentyn y Bryn Traits
+### Nodweddion Plentyn y Bryn
 
-Your halfling character has a number of traits in common with all other halflings.
+Mae gan eich cymeriad rai nodweddion sy'n gyffredin â phob Plant y Bryn arall.
 
-***Cynydd Sgôr Gallu***. Your Dexterity score increases by 2.
+***Cynydd Sgôr Gallu***. Mae eich sgôr Chwimder yn cynyddy gan 2.
 
-***Oed***. A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century.
+***Oed***. Mae Plentyn y Bryn yn cyrraedd oedolaeth yn 20 oed ac yn gyffredinol yn byw i ganol ei ail ganrif.
 
-***Aliniant***. Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.
+***Maint***. Mae Plant y Bryns tua 3 troedfedd o daldra ar gyfartaledd ac yn pwyso tua 40 pwys. Mae eich maint yn fach.
 
-***Maint***. Plentyn y Bryns average about 3 feet tall and weigh about 40 pounds. Your size is Small.
+***Cyflymder***. 25 troedfedd yw eich cyflymdra sylfaneol.
 
-***Cyflymder***. Your base walking speed is 25 feet.
+***Lwcus***. Pan fyddwch chi'n rholio 1 ar y d20 ar gyfer rholyn ymosodiad, cais gallu, neu cais arbed, gallwch chi ail-rholio'r dis a rhaid i chi ddefnyddio'r rholyn newydd.
 
-***Lucky***. When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+***Dewrder***. Mae gennych fantais ar cais achub yn erbyn cael eich dychryn.
 
-***Brave***. You have advantage on saving throws against being frightened.
+***Amysgafnder***. Gallwch symud trwy ofod unrhyw greadur sydd o faint mwy na'ch un chi.
 
-***Plentyn y Bryn Nimbleness***. You can move through the space of any creature that is of a size larger than yours.
+***Ieithoedd***. Gallwch siarad, darllen, ac ysgrifennu y Cyfiaith ac iaith Plant y Bryn. Nid yw iaith Plant y Bryn yn gyfrinach, ond mae'n gas i'w rhannu ag eraill. Ychydig iawn y maent yn ei ysgrifennu, felly nid oes ganddynt gorff cyfoethog o lenyddiaeth. Mae eu traddodiad llafar, fodd bynnag, yn gryf iawn. Mae bron pob Plentyn y Bryn yn siarad y Cyfiaith i ymddiddan â'r bobl y maent yn trigo yn eu tiroedd neu y maent yn teithio trwyddynt.
 
-***Ieithoedd***. You can speak, read, and write Common and Plentyn y Bryn. The Plentyn y Bryn language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
+## Ysgafndroed (Lightfoot)
 
-## Lightfoot
+Fel Plentyn y Bryn Ysgafndroed, gallwch yn hawdd guddio rhag sylwi, hyd yn oed ddefnyddio pobl eraill fel gorchudd. Rydych chi'n dueddol o fod yn gariadus a chyd-dynnu'n dda ag eraill.
 
-As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others.
+Mae Ysgafndroed yn fwy tueddol o ddioddef chwant crwydro na Plant y Bryn eraill, ac yn aml maent yn byw ochr yn ochr â hiliau eraill neu'n cymryd bywyd crwydrol.
 
-Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life.
+***Cynydd Sgôr Gallu***. Mae eich sgôr Presynoldeb yn cynyddu gan 1.
 
-***Cynydd Sgôr Gallu***. Your Charisma score increases by 1.
-
-***Naturally Stealthy***. You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+***Yn naturiol llechwraidd***. Gallwch geisio cuddio hyd yn oed pan fyddwch chi'n cael eich cuddio gan greadur sydd o leiaf un maint yn fwy na chi.
