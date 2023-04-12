@@ -5,7 +5,7 @@ import os
 
 
 def md2tex(filepath,destFilepath):
-	pandocCommand = 'pandoc '+filepath.replace(" ","\\ ")+' -o "'+destFilepath+'"'
+	pandocCommand = 'pandoc --toc -s '+filepath.replace(" ","\\ ")+' -o "'+destFilepath+'"'
 	os.system(pandocCommand)
 	html = open(destFilepath).read()
 	html = html.replace('<blockquote>','<details><summary>eng</summary><blockquote>')
