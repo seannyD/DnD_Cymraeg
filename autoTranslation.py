@@ -348,7 +348,8 @@ def convertFolder(folder,destFolderName, translations=[], destBaseFolder="DND_SR
 
 ################
 # Races
-convertFolder("DND.SRD.Wiki-0.5.1/Races/","Rhywogaethau",[raceTranslations],titleTranslations={"Racial Traits": "# Nodweddion Rhywogaethau"})
+if False:
+	convertFolder("DND.SRD.Wiki-0.5.1/Races/","Rhywogaethau",[raceTranslations],titleTranslations={"Racial Traits": "# Nodweddion Rhywogaethau"})
 
 ################
 # Monsters
@@ -407,7 +408,9 @@ convertFolder("DND.SRD.Wiki-0.5.1/Treasure","Trysor",[treasureTranslations2],tit
 convertFolder("DND.SRD.Wiki-0.5.1/Characterizations","Cymeriadaeth",titleTranslations=chapterTitleTranslations)
 convertFolder("DND.SRD.Wiki-0.5.1/Equipment","Cyfarpar",titleTranslations=chapterTitleTranslations, softTranslations = [weaponTranslations2, conditionTranslations, damageTypes2])
 convertFolder("DND.SRD.Wiki-0.5.1/Gamemastering","Meistrolaethy y Gêm",titleTranslations=chapterTitleTranslations, softTranslations = [spellNameTranslationForMonsterStatBlock, conditionTranslations, ])
-convertFolder("DND.SRD.Wiki-0.5.1/Gameplay","Chwarae y Gêm",titleTranslations=chapterTitleTranslations,softTranslations= [spellNameTranslationForMonsterStatBlock, skillTranslations])
+
+if False:
+	convertFolder("DND.SRD.Wiki-0.5.1/Gameplay","Chwarae y Gêm",titleTranslations=chapterTitleTranslations,softTranslations= [spellNameTranslationForMonsterStatBlock, skillTranslations])
 
 
 
