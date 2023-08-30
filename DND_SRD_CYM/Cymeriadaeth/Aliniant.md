@@ -1,8 +1,12 @@
 # Aliniant (Alignment)
 
-A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
+Mae gan greadur nodweddiadol yn y byd gêm aliniad, sy'n disgrifio'n fras ei agweddau moesol a phersonol. Mae aliniad yn gyfuniad o ddau ffactor: mae un yn nodi moesoldeb (da, drwg, neu niwtral), a'r llall yn disgrifio agweddau tuag at gymdeithas a threfn (cyfreithlon, anhrefnus, neu niwtral). Felly, mae naw aliniad gwahanol yn diffinio'r cyfuniadau posibl.
 
-These brief summaries of the nine alignments describe the typical behavior of a creature with that alignment. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment.
+Mae'r crynodebau byr hyn o'r naw aliniad yn disgrifio ymddygiad nodweddiadol creadur â'r aliniad hwnnw. Gallai unigolion amrywio'n sylweddol o'r ymddygiad nodweddiadol hwnnw, ac ychydig o bobl sy'n berffaith ac yn gyson ffyddlon i egwyddorion eu haliniad.
+
+>  A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
+>  
+>  These brief summaries of the nine alignments describe the typical behavior of a creature with that alignment. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment.
 
 **Lawful good** (LG) creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good.
 

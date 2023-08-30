@@ -50,8 +50,31 @@ for file in [x for x in os.listdir("translationTables/") if x.endswith("json")]:
 			cym = clean(cym)
 			if (not eng+cat in seenEng) and includeWord(eng):
 				seenEng.append(eng+cat)
-				cat = cat.replace("Race","Species")
-				entries.append({"English": eng, "Cymraeg":cym,"Category":cat})
+				cat = cat.replace("Races","Species")
+				# CREATE URL LINK
+				urlLink = ''
+				if cat in ["Spell Names","Monster Names","Species","Treasure Names"]:
+					cymAddr = cym
+					if cymAddr.count("(")>0:
+						cymAddr = cymAddr[:cymAddr.index("(")].strip()
+					# Manual fix
+					if cymAddr == "Swyno":
+						cymAddr = "_Swyno"
+					cymAddr = cymAddr.replace(" ","_")
+					
+					branch = {"Spell Names":"../Swynau/",
+							  "Monster Names":"../Anghenfilod/",
+							  "Species": "../Rhywogaethau/",
+							  "Treasure Names": "../Trysor/"}[cat]
+					urlLink = branch+cymAddr+".html"
+				if cat in ["Spell Names"]:
+					cymAddr = cym.replace(" ","_")
+					if cymAddr == "Swyno":
+						cymAddr = "_Swyno"
+					urlLink = '../Swynau/'+cymAddr+".html"
+					
+				# ADD TO ENTITIES
+				entries.append({"English": eng, "Cymraeg":cym,"Category":cat,"url":urlLink})
 			
 with open('web/public/Geiriadur/geiriadur.json', 'w') as f:
     json.dump({"data":entries}, f)

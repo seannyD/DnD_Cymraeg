@@ -45,26 +45,26 @@ Rydych chi'n dechrau gyda'r cyfarpar canlynol, yn ogystal â'r cyfarpar gan eich
 
 | Lefel | Bonws hyfedredd   | Nodwedd                                                   | Swynau hysbys | Swyngyfaredd hysbys | Lefel 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |-------|-------------------|-----------------------------------------------------------|--------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1st   | +2                | Swyno, Ysbrydoliaeth Barddol (d6)                         | 2            | 4              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd   | +2                | Jac Pob Crefft, Can Gorffwys (d6)                         | 2            | 5              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3rd   | +2                | Coleg Barddol, Arbenigaeth                                | 2            | 6              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4th   | +2                | Cynydd Sgôr Gallu                                      | 3            | 7              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5th   | +3                | Ysbrydoliaeth Barddol (d8), Ffont Ysbrydoliaeth            | 3            | 8              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6th   | +3                | Croeswyno (niwed), Nodwedd Coleg Barddol                  | 3            | 9              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
-| 7th   | +3                | -                                                         | 3            | 10             | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8th   | +3                | Cynydd Sgôr Gallu                                      | 3            | 11             | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-| 9th   | +4                | Can Gorffwys (d8)                                         | 3            | 12             | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10th  | +4                | Ysbrydoliaeth Barddol (d10), Arbenigaeth, Cyfrinachau Hud | 4            | 14             | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-| 11th  | +4                | -                                                         | 4            | 15             | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12th  | +4                | Cynydd Sgôr Gallu                                      | 4            | 15             | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 13th  | +5                | Can Gorffwys (d10)                                        | 4            | 16             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14th  | +5                | Cyfrinachau Hud, Nodwedd Coleg Barddol                    | 4            | 18             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 15th  | +5                | Ysbrydoliaeth Barddol (d12)                               | 4            | 19             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16th  | +5                | Cynydd Sgôr Gallu                                      | 4            | 19             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17th  | +6                | Can Gorffwys (d12)                                        | 4            | 20             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th  | +6                | Cyfrinachau Hud                                           | 4            | 22             | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th  | +6                | Cynydd Sgôr Gallu                                      | 4            | 22             | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th  | +6                | Ysbridoliaeth Goruchaf                                    | 4            | 22             | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 1     | +2                | Swyno, Ysbrydoliaeth Barddol (d6)                         | 2            | 4              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2     | +2                | Jac Pob Crefft, Can Gorffwys (d6)                         | 2            | 5              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3     | +2                | Coleg Barddol, Arbenigaeth                                | 2            | 6              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4     | +2                | Cynydd Sgôr Gallu                                      | 3            | 7              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5     | +3                | Ysbrydoliaeth Barddol (d8), Ffont Ysbrydoliaeth            | 3            | 8              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6     | +3                | Croeswyno (niwed), Nodwedd Coleg Barddol                  | 3            | 9              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7     | +3                | -                                                         | 3            | 10             | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8     | +3                | Cynydd Sgôr Gallu                                      | 3            | 11             | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9     | +4                | Can Gorffwys (d8)                                         | 3            | 12             | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10    | +4                | Ysbrydoliaeth Barddol (d10), Arbenigaeth, Cyfrinachau Hud | 4            | 14             | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11    | +4                | -                                                         | 4            | 15             | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12    | +4                | Cynydd Sgôr Gallu                                      | 4            | 15             | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13    | +5                | Can Gorffwys (d10)                                        | 4            | 16             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14    | +5                | Cyfrinachau Hud, Nodwedd Coleg Barddol                    | 4            | 18             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15    | +5                | Ysbrydoliaeth Barddol (d12)                               | 4            | 19             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16    | +5                | Cynydd Sgôr Gallu                                      | 4            | 19             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17    | +6                | Can Gorffwys (d12)                                        | 4            | 20             | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18    | +6                | Cyfrinachau Hud                                           | 4            | 22             | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19    | +6                | Cynydd Sgôr Gallu                                      | 4            | 22             | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20    | +6                | Ysbridoliaeth Goruchaf                                    | 4            | 22             | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 |       |                   |                                                           |              |                |     |     |     |     |     |     |     |     |     |
 
 ### Swyno

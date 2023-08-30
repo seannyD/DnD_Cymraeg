@@ -29,8 +29,8 @@
      inkscape:zoom="0.64"
      inkscape:cx="207.8125"
      inkscape:cy="230.46875"
-     inkscape:window-width="1440"
-     inkscape:window-height="847"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -54,27 +54,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-65.048377,-156.11122)">
-    <g
-       id="g37180"
-       transform="matrix(0.55260572,0,0,0.77657599,78.584368,44.620523)"
-       inkscape:export-filename="/Users/seanroberts/Documents/DnDCymraeg/logo.png"
-       inkscape:export-xdpi="90.43"
-       inkscape:export-ydpi="90.43">
-      <rect
-         style="fill:#f9f9f9;stroke:none;stroke-width:2.90331;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-         id="rect7547"
-         width="245.09544"
-         height="89.134018"
-         x="-24.494844"
-         y="143.56702" />
-      <rect
-         style="fill:#0a713a;fill-opacity:1;stroke:none;stroke-width:2.90331;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
-         id="rect7547-6"
-         width="245.09544"
-         height="89.134018"
-         x="-24.494844"
-         y="232.70103" />
-    </g>
     <path
        style="fill:#f20a06;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 99.115397,206.86076 -3.20394,3.87573 -0.878499,3.514 6.821292,-2.32544 1.34358,-0.8785 z"

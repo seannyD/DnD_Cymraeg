@@ -1,4 +1,4 @@
-# # Nodweddion Rhywogaethau (Species Traits)
+# Nodweddion Rhywogaethau (Species Traits)
 
 Mae'r disgrifiad o bob rhywogaeth yn cynnwys nodweddion rhywogaeth sy'n gyffredin i aelodau'r rhywogaeth honno. Mae'r cofnodion canlynol yn ymddangos ymhlith nodweddion y rhan fwyaf o rywogaethau.
 

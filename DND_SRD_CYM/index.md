@@ -1,41 +1,6 @@
-<head>
-<meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1"> 
-<link rel="stylesheet" href="css/github-markdown.css">
-</head>
- <div class="topnav">
-  <a href="#"><img src="../images/logo_mini.svg" style="height:40px"></a>
-  <a class="active" href="#">Cartref</a>
-  <div class="dropdown">
-  	<button class="dropbtn">Dosbarthau<i class="fa fa-caret-down"></i></button>
-  	<div class="dropdown-content">
-      <a href="Dosbarthau/Bardd_cy.html">Bardd</a>
-      <a href="Dosbarthau/Clerig_cy.html">Clerig</a>
-      <a href="Dosbarthau/Crwydryn_cy.html">Crwydryn</a>
-      <a href="Dosbarthau/Dewin_cy.html">Dewin</a>
-      <a href="Dosbarthau/Dyhiryn_cy.html">Dyhiryn</a>
-      <a href="Dosbarthau/Gwylltyn_cy.html">Gwylltyn</a>
-      <a href="Dosbarthau/Llochesydd_cy.html">Llochesydd</a>
-      <a href="Dosbarthau/Paladin_cy.html">Paladin</a>
-      <a href="Dosbarthau/Swynydd_cy.html">Swynydd</a>
-      <a href="Dosbarthau/Ymladdydd_cy.html">Ymladdydd</a>
-    </div>
-  </div>
-  <a href="Swynau/_Rhestr_Swynau.html">Swynau</a>
-  <div class="dropdown">
-    <button class="dropbtn">Rheolau 
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="Anghenfilod/_Rhestr_Anghenfilod.html">Anghenfilod</a>
-      <a href="Rhywogaethau/_Nodweddion_Rhywogaethau.html">Rhywogaethau</a>
-      <a href="Trysor/_Rhestr_Trysorau.html">Trysor</a>
-    </div>
-  </div>
-  <a href="Geiriadur/">Geiriadur</a> 
-</div>
+# Daeargelloedd & Dreigiau 
 
-
-# Daeargelloedd & Dreigiau (D&D Cymraeg)
+**Cyfieithiad Cymraeg o D&D**
 
 # Rhywogaethau
 
@@ -61,7 +26,7 @@
 -  [Dyhiryn (Rogue)](Dosbarthau/Dyhiryn_cy.html)
 -  [Gwylltyn (Barbarian)](Dosbarthau/Gwylltyn_cy.html)
 -  [Llochesydd (Warlock)](Dosbarthau/Llochesydd_cy.html)
--  [Mynach (Monk)](Dosbarthau/Mynach_cy.html)
+-  [Myfyrydd (Monk)](Dosbarthau/Myfyrydd_cy.html)
 -  [Paladin (Paladin)](Dosbarthau/Paladin_cy.html)
 -  [Swynydd (Sorcerer)](Dosbarthau/Swynydd_cy.html)
 -  [Ymladdydd (Fighter)](Dosbarthau/Ymladdydd_cy.html)
@@ -69,12 +34,12 @@
 # Cymeriadaeth
 
 -  [Ty hwnt i Lefel 1](Cymeriadaeth/Ty_hwnt_i_Lefel_1.html)
--  [Aml-Dosbarthu]
--  [Aliniant]
--  [Ieithoedd]
--  [Ysbrydoliaeth]
--  [Cefndir]
--  [Campau]
+-  [Aml-Dosbarthu](Cymeriadaeth/Aml-Dosbarthu_cy.html)
+-  [Aliniant](Cymeriadaeth/Aliniant.html)
+-  [Ieithoedd](Cymeriadaeth/Ieithoedd_cy.html)
+-  [Ysbrydoliaeth](Cymeriadaeth/Ysbrydoliaeth_cy.html)
+-  [Cefndir](Cymeriadaeth/Cefndir.html)
+-  [Campau](Cymeriadaeth/Campau_cy.html)
 
 # Cyfarpar
 

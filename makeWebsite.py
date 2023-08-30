@@ -4,16 +4,17 @@
 import os
 
 
-def md2tex(filepath,destFilepath):
-	pandocCommand = 'pandoc --toc -s '+filepath.replace(" ","\\ ")+' -o "'+destFilepath+'"'
+def md2tex(filepath,destFilepath,pageTitle):
+	pandocCommand = 'pandoc --toc --metadata title="' + pageTitle  +'" -s '+filepath.replace(" ","\\ ")+' -o "'+destFilepath+'"'
 	os.system(pandocCommand)
 	html = open(destFilepath).read()
 	html = html.replace('<blockquote>','<details><summary>eng</summary><blockquote>')
 	html = html.replace('</blockquote>','</blockquote></details>')
-	if(filepath.endswith("index.md")):
-		html = '<html>\n<div class="info">'+ html+"\n</div></html>"
+	if(filepath.endswith("tmp.txt")):
+		# Top level index
+		html = html.replace("</head>",headerTextMain)#"<html>\n"+headerTextMain+'\n<div class="info">'+ html+"\n</div></html>"
 	else:
-		html = "<html>\n"+headerText+'\n<div class="info">'+ html+"\n</div></html>"
+		html = html.replace("</head>",headerText)#"<html>\n"+headerText+'\n<div class="info">'+ html+"\n</div></html>"
 	with open(destFilepath,'w') as o:
 		o.write(html)
 
@@ -22,6 +23,7 @@ def md2tex(filepath,destFilepath):
 cdir = "DND_SRD_CYM"
 
 headerText = open("web/header.html").read()
+headerTextMain = headerText.replace("../","")
 
 ix = open("DND_SRD_CYM/index.md").read()
 indexText = ""
@@ -40,7 +42,7 @@ for line in ix.split("\n"):
 with open("tmp.txt","w") as o:
 	o.write(indexText)
 	
-md2tex("tmp.txt","web/public/index.html")
+md2tex("tmp.txt","web/public/index.html","Daeargelloedd & Dreigiau")
 
 folders = [x for x in os.listdir(cdir) if os.path.isdir(os.path.join(cdir, x))]
 
@@ -54,4 +56,5 @@ for folder in folders:
 	files = [x for x in files if x.endswith(".md")]
 	for f in files:
 		dest = dfolder +"/"+ f.replace(".md",".html")
-		md2tex(cdir+"/"+folder+"/"+f,dest)
+		pageTitle = f.replace("_cy","").replace("_"," ")
+		md2tex(cdir+"/"+folder+"/"+f,dest,pageTitle)

@@ -1,4 +1,4 @@
-# Ystadagau Anghenfilod (Monster Statistics)
+# Ystadegau Anghenfilod (Monster Statistics)
 
 ## Type
 
