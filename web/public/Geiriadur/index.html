@@ -1,0 +1,179 @@
+<html>
+<head>
+<title>Geiriadur D&D</title>
+<link rel="icon" type="image/x-icon" href="../images/logo_mini.ico">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4-4.6.0/jq-3.6.0/dt-1.13.2/datatables.min.css"/>
+ 
+<script type="text/javascript" src="https://cdn.datatables.net/v/bs4-4.6.0/jq-3.6.0/dt-1.13.2/datatables.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
+
+<script type="text/javascript">
+
+function setUpSearching(){
+	table = $('#geiriadur').DataTable();
+    table.columns([2]).every(function() {
+        var column = this;
+        var select = $('<select><option value=""></option></select>')
+          .appendTo($(column.header()).empty())
+          .on('change', function() {
+            var val = $.fn.dataTable.util.escapeRegex(
+              $(this).val()
+            );
+
+            column
+              .search(val ? '^' + val + '$' : '', true, false)
+              .draw();
+          });
+
+        column.data().unique().sort().each(function(d, j) {
+          select.append('<option value="' + d + '">' + d + '</option>');
+        });
+      });
+}
+
+$(document).ready(function () {
+    table = $('#geiriadur').DataTable({
+    	"ajax": "geiriadur.json",
+    	"dom": 'rfitlp',
+    	 "columns": [
+            { data: 'English' },
+ //           { data: 'Cymraeg' },
+			{ "data": "Cymraeg", "name": "Cymraeg",
+				fnCreatedCell: function (nTd, sData, oData, iRow, iCol) {
+				    if(oData.url==""){
+				    	$(nTd).html(oData.Cymraeg);
+				    } else{
+						$(nTd).html("<a href='"+oData.url+"'>"+oData.Cymraeg+"</a>");
+					}
+				}},
+            { data: 'Category' }
+        ],
+        "order": [[2, 'asc']],
+        "fnInitComplete":setUpSearching,
+        language: {
+			processing:     "Prosesu ...",
+			search:         "Chwiliwch&nbsp;:",
+			info:           "Dangos _START_ i _END_ o _TOTAL_ gair",
+			lengthMenu:     "Dangos _MENU_ gair",
+			infoEmpty:      "Dim data",
+			infoFiltered:   "(o _MAX_ gair)",
+			infoPostFix:    "",
+			loadingRecords: "Llwytho...",
+			zeroRecords:    "Dim data",
+			emptyTable:     "Tabl gwag",
+			paginate: {
+				first:      "Cyntaf",
+				previous:   "Blaenorol",
+				next:       "Nesaf",
+				last:       "Olaf"
+			},
+			aria: {
+				sortAscending:  ": trefn esgynnol",
+				sortDescending: ": trefn disgynnol"
+			}
+		}
+    	});
+    	
+//         $('#geiriadur tfoot th').each( function () {
+//             var title = $(this).text();
+//             //$(this).attr("id","Search_"+title);
+//             if(title!=""){
+//                 $(this).html( '<input type="text" placeholder="Search" style="width:100%"/>' );
+//             }
+//         } );
+
+//     table.columns().every( function () {
+//         var that = this;
+//         //console.log(that.visible());
+//         if(that.visible()){
+//             $( 'input', this.footer() ).on( 'keyup change', function () {
+// 
+//                 if ( that.search() !== this.value ) {
+//                     that
+//                         .search( this.value )
+//                         .draw();
+//                 }
+//             } );
+//         }
+//     } );
+     $('#geiriadur tfoot tr').appendTo('#geiriadur thead');
+    
+
+      
+    table.columns([0, 1]).every(function() {
+        var that = this;
+        var input = $('<input type="text" placeholder="Chwiliwch" />')
+          .appendTo($(this.header()).empty())
+
+          .on('keyup change', function() {
+            if (that.search() !== this.value) {
+              that
+                .search(this.value)
+                .draw();
+            }
+          });
+      });
+    
+});
+</script>
+
+<meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1"> 
+<link rel="stylesheet" href="css/github-markdown.css">
+<link rel="stylesheet" href="../css/github-markdown.css">
+</head>
+<body>
+ <div class="topnav">
+  <a id="logoLink" href="../index.html"><img src="../images/logo_mini.svg" style="height:40px;padding:0"></a>
+  <div class="dropdown">
+  	<button class="dropbtn">Dosbarthau<i class="fa fa-caret-down"></i></button>
+  	<div class="dropdown-content">
+      <a href="../Dosbarthau/Bardd_cy.html">Bardd</a>
+      <a href="../Dosbarthau/Clerig_cy.html">Clerig</a>
+      <a href="../Dosbarthau/Crwydryn_cy.html">Crwydryn</a>
+      <a href="../Dosbarthau/Dewin_cy.html">Dewin</a>
+      <a href="../Dosbarthau/Dyhiryn_cy.html">Dyhiryn</a>
+      <a href="../Dosbarthau/Gwylltyn_cy.html">Gwylltyn</a>
+      <a href="../Dosbarthau/Llochesydd_cy.html">Llochesydd</a>
+      <a href="../Dosbarthau/Paladin_cy.html">Paladin</a>
+      <a href="../Dosbarthau/Swynydd_cy.html">Swynydd</a>
+      <a href="../Dosbarthau/Ymladdydd_cy.html">Ymladdydd</a>
+    </div>
+  </div>
+  <a href="../Swynau/_Rhestr_Swynau.html">Swynau</a>
+  <div class="dropdown">
+    <button class="dropbtn">Rheolau 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="../Anghenfilod/_Rhestr_Anghenfilod.html">Anghenfilod</a>
+      <a href="../Rhywogaethau/_Nodweddion_Rhywogaethau.html">Rhywogaethau</a>
+      <a href="../Trysor/Rhestr_Trysorau.html">Trysor</a>
+    </div>
+  </div>
+  <a class="active" href="../Geiriadur/">Geiriadur</a> 
+</div>
+<body>
+
+<div class="container">
+<h1>Geiriadur</h1>
+<p><i>Chwiliwch am eiriau yng Nghymraeg neu Saesneg isod i weld cyfieithiad.</i></p>
+<table id="geiriadur" class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>English</th>
+                <th>Cymraeg</th>
+                <th>Category</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th>English</th>
+                <th>Cymraeg</th>
+                <th>Category</th>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+</body>
+</html>
