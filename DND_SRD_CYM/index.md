@@ -1,6 +1,12 @@
+<img src="images/logo_mini.png" style="width:80%;padding-top:40px;padding-left:5%">
+
 # Daeargelloedd & Dreigiau 
 
 **Cyfieithiad Cymraeg o D&D**
+
+*A Welsh translation of D&D*
+
+<a href="https://github.com/seannyD/DnD_Cymraeg" target="_blank" class="btn">Cyfrannwch i'r cyfieithiad<br>Contribute to the translation</a>
 
 # Rhywogaethau
 
@@ -33,12 +39,12 @@
 
 # Cymeriadaeth
 
--  [Ty hwnt i Lefel 1](Cymeriadaeth/Ty_hwnt_i_Lefel_1.html)
+-  [Ty hwnt i Lefel 1](Cymeriadaeth/Ty_hwnt_i_Lefel_1_cy.html)
 -  [Aml-Dosbarthu](Cymeriadaeth/Aml-Dosbarthu_cy.html)
 -  [Aliniant](Cymeriadaeth/Aliniant.html)
 -  [Ieithoedd](Cymeriadaeth/Ieithoedd_cy.html)
 -  [Ysbrydoliaeth](Cymeriadaeth/Ysbrydoliaeth_cy.html)
--  [Cefndir](Cymeriadaeth/Cefndir.html)
+-  [Cefndir](Cymeriadaeth/Cefndir_cy.html)
 -  [Campau](Cymeriadaeth/Campau_cy.html)
 
 # Cyfarpar
@@ -63,7 +69,7 @@
 
 -  [Swyno](Swynau/_Swyno.html)
 -  [Rhestr Swynau Alfabetaidd](Swynau/_Rhestr_Swynau.html)
--  [Rhestr Swynau ar gyfer pob Dosbarth](Swynau/_Rhestr_Swynau_Dosbarthau_.html)
+-  [Rhestr Swynau ar gyfer pob Dosbarth](Swynau/_Rhestr_Swynau_Dosbarthau.html)
 
 # Meistrolaethy y Gêm
 
