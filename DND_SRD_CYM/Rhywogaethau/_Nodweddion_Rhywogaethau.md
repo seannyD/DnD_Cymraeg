@@ -10,7 +10,7 @@ Mae pob rhywogaeth yn cynyddu un neu fwy o sgorau gallu cymeriad.
 
 >  Every species increases one or more of a character's ability scores.
 
-## Age
+## Oed (Age)
 
 Mae'r nodwedd oedran yn nodi'r oedran pan fydd aelod o'r rhywogaeth yn cael ei ystyried yn oedolyn, yn ogystal â hyd oes arferol y rhywogaeth. Gall y wybodaeth hon eich helpu i benderfynu pa mor hen yw eich cymeriad ar ddechrau'r gêm. Gallwch ddewis unrhyw oedran ar gyfer eich cymeriad, a allai roi esboniad am rai o'ch sgorau gallu. Er enghraifft, os ydych chi'n chwarae cymeriad ifanc neu hen iawn, gallai eich oedran esbonio sgôr Cryfder neu Gyfansoddiad arbennig o isel, tra gallai oedran uwch gyfrif am Ddeallusrwydd neu Ddoethineb uchel.
 

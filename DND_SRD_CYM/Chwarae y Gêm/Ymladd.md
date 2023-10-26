@@ -8,7 +8,7 @@ Mae ymladdfa arferol yn cynnwys gwrthdaro rhwng dwy ochr, llu o arfau, ffentau, 
 
 1.  **Penderfynwch syndod.** Y DM sy'n penderfynu a fydd unrhyw un sy'n ymwneud â'r ymladd yn cael ei synnu.
 2.  **Sefydlwch safleoedd.** Y DM sy'n penderfynu ble mae'r cymeriadau a'r bwystfilod i gyd wedi'u lleoli. O ystyried trefn orymdeithio'r anturiaethwyr neu eu safleoedd datganedig yn yr ystafell neu leoliad arall, mae'r DM yn dangos ble mae'r gwrthwynebwyr, pa mor bell i ffwrdd ac i ba gyfeiriad.
-3.  **Rholio Blaengaredd.** Mae pawb sy'n ymwneud â'r ymladd yn rholio blaengaredd, gan bennu trefn y troadau.
+3.  **Rholiwch Blaengaredd.** Mae pawb sy'n ymwneud â'r ymladd yn rholio blaengaredd, gan bennu trefn y troadau.
 4.  **Cymerwch eich tro.** Mae pob cyfranogwr yn y frwydr yn cymryd tro yn nhrefn blaengaredd.
 5.  **Dechreuwch y rownd nesaf.** Pan fydd pawb sy'n ymwneud â'r ymladd wedi cael tro, daw'r rownd i ben. Ailadroddwch gam 4 nes bydd yr ymladd yn dod i ben.
 
