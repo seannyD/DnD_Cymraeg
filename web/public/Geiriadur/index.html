@@ -2,8 +2,60 @@
 <head>
 <title>Geiriadur D&D</title>
 <link rel="icon" type="image/x-icon" href="../images/logo_mini.ico">
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css"/>
+
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4-4.6.0/jq-3.6.0/dt-1.13.2/datatables.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css"/>
+
+<style>
+/* There's some conflict between datatables and bootstrap that's
+   hiding dropdowns, so create a new set of styles and make
+   display and float important */
+.navbar a:hover, .dropdownX:hover .dropbtnX {
+  background-color: #f20a06;
+}
+
+.dropdownX {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdownX .dropbtnX {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.dropdown-contentX {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-contentX a {
+  float: none !important;
+  color: black !important;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block !important;
+  text-align: left !important;
+}
+
+.dropdown-contentX a:hover {
+  background-color: #ddd;
+}
+
+.dropdownX:hover .dropdown-contentX {
+  display: block;
+}
+</style>
  
 <script type="text/javascript" src="https://cdn.datatables.net/v/bs4-4.6.0/jq-3.6.0/dt-1.13.2/datatables.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
@@ -119,15 +171,15 @@ $(document).ready(function () {
 </script>
 
 <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1"> 
-<link rel="stylesheet" href="css/github-markdown.css">
+
 <link rel="stylesheet" href="../css/github-markdown.css">
 </head>
 <body>
  <div class="topnav">
   <a id="logoLink" href="../index.html"><img src="../images/logo_mini.svg" style="height:40px;padding:0"></a>
-  <div class="dropdown">
-  	<button class="dropbtn">Dosbarthau<i class="fa fa-caret-down"></i></button>
-  	<div class="dropdown-content">
+  <div class="dropdownX">
+  	<button class="dropbtnX">Dosbarthau<i class="fa fa-caret-down"></i></button>
+  	<div class="dropdown-contentX">
       <a href="../Dosbarthau/Bardd_cy.html">Bardd</a>
       <a href="../Dosbarthau/Clerig_cy.html">Clerig</a>
       <a href="../Dosbarthau/Crwydryn_cy.html">Crwydryn</a>
@@ -140,18 +192,18 @@ $(document).ready(function () {
       <a href="../Dosbarthau/Ymladdydd_cy.html">Ymladdydd</a>
     </div>
   </div>
-  <a href="../Swynau/_Rhestr_Swynau.html">Swynau</a>
-  <div class="dropdown">
-    <button class="dropbtn">Rheolau 
+  <div class="dropdownX">
+    <button class="dropbtnX">Rheolau 
       <i class="fa fa-caret-down"></i>
     </button>
-    <div class="dropdown-content">
+    <div class="dropdown-contentX">
+      <a href="../Swynau/_Rhestr_Swynau.html">Swynau</a>
       <a href="../Anghenfilod/_Rhestr_Anghenfilod.html">Anghenfilod</a>
       <a href="../Rhywogaethau/_Nodweddion_Rhywogaethau.html">Rhywogaethau</a>
-      <a href="../Trysor/Rhestr_Trysorau.html">Trysor</a>
+      <a href="../Trysor/_Rhestr_Trysorau.html">Trysor</a>
     </div>
   </div>
-  <a class="active" href="../Geiriadur/">Geiriadur</a> 
+  <a class="active" href="#">Geiriadur</a> 
 </div>
 <body>
 

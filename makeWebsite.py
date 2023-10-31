@@ -56,5 +56,5 @@ for folder in folders:
 	files = [x for x in files if x.endswith(".md")]
 	for f in files:
 		dest = dfolder +"/"+ f.replace(".md",".html")
-		pageTitle = f.replace("_cy","").replace("_"," ")
+		pageTitle = f.replace("_cy.html",".html").replace("_"," ")
 		md2tex(cdir+"/"+folder+"/"+f,dest,pageTitle)
